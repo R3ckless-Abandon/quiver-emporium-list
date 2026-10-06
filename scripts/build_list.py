@@ -14,9 +14,13 @@ Usage:
     python scripts/build_list.py --dry-run           # print summary, don't write
 """
 import argparse
+import difflib
 import json
+import os
 import re
 import sys
+import time
+import unicodedata
 from pathlib import Path
 
 import requests
@@ -29,6 +33,14 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT_FILE = ROOT / "lists" / "GamingEmporiumExtras.json"
 MANUAL_FILE = ROOT / "lists" / "manual.json"      # optional extra apps you add by hand
 EXCLUDE_FILE = ROOT / "lists" / "exclude.json"    # optional list of repos to never include
+ICONS_FILE = ROOT / "lists" / "icons.json"        # repo -> SteamGridDB match; edit "url" to override
+
+SGDB_API = "https://www.steamgriddb.com/api/v2"
+
+# Everything from these words onward is about the project, not the game
+GAME_NAME_CUT = re.compile(r"\s+(?:native\s+)?(?:pc\s+ports?|ports?|recompilation|recompiled|recomp|"
+                           r"decompilation|reimplementation|plus|for steam deck|xbox 360|arcade|with|enhanced|"
+                           r"online edition)\b.*$", re.I)
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (QuiverListBuilder; +https://github.com/)"}
 
@@ -143,6 +155,106 @@ def to_app(item):
     return app
 
 
+def game_names(title):
+    """Search terms for SteamGridDB, best guess first: the title with the project words
+    stripped, then each side of a ' - ' (e.g. 'Outrun - Cannonball')."""
+    t = re.sub(r"\([^)]*\)", "", title)
+    t = re.sub(r"^decompilation of\s+", "", t, flags=re.I)
+    t = re.sub(r"^GTA:?\s", "Grand Theft Auto: ", t)
+    names = []
+    parts = [t] + t.split(" - ")
+    parts += [re.split(r",| and ", p)[0] for p in parts]   # 'Vigilante 8 and Vigilante 8: 2nd Offense'
+    for p in parts:
+        p = GAME_NAME_CUT.sub("", p).strip(" -,")
+        if p and p.lower() not in (n.lower() for n in names):
+            names.append(p)
+    return names
+
+
+def sgdb_get(path, key):
+    time.sleep(0.2)  # be gentle with the API
+    r = requests.get(f"{SGDB_API}{path}", headers={"Authorization": f"Bearer {key}"}, timeout=30)
+    if r.status_code == 404:
+        return []
+    r.raise_for_status()
+    return r.json().get("data") or []
+
+
+ROMAN = {"ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6"}
+
+
+def norm_name(s):
+    """Loose form of a game name for comparing: no accents, case, punctuation or 'the',
+    roman numerals as digits, GTA spelled out."""
+    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()
+    s = re.sub(r"\bgta\b", "grand theft auto", s.replace("&", " and "))
+    words = [ROMAN.get(w, w) for w in re.findall(r"[a-z0-9]+", s) if w != "the"]
+    return " ".join(words)
+
+
+def name_score(searched, game):
+    a, b = norm_name(searched), norm_name(game)
+    score = difflib.SequenceMatcher(None, a, b).ratio()
+    if a == b:
+        return 1.0
+    # Same game with a subtitle ('Lufia 2' vs 'Lufia II: Rise of the Sinistrals'), or our title has
+    # extra project words ('Hydro Thunder Online' vs 'Hydro Thunder') - but not a sequel ('Shrek Forever After')
+    if (b.startswith(a) and re.search(r":| - |\(", game)) or a.startswith(b + " "):
+        score = max(score, 0.9)
+    return score
+
+
+def sgdb_art(game_id, key):
+    """Top-voted icon, else a square grid, else any grid."""
+    art = (sgdb_get(f"/icons/game/{game_id}", key)
+           or sgdb_get(f"/grids/game/{game_id}?dimensions=512x512,1024x1024", key)
+           or sgdb_get(f"/grids/game/{game_id}", key))
+    return art[0]["thumb"] if art else None
+
+
+def sgdb_lookup(title, key, min_score=0.86):
+    """Best-named SteamGridDB game for one of the title's search terms that has some art."""
+    for name in game_names(title):
+        games = sgdb_get(f"/search/autocomplete/{requests.utils.quote(name, safe='')}", key)
+        ranked = sorted(((name_score(name, g["name"]), g) for g in games), key=lambda x: -x[0])
+        for score, game in ranked[:3]:
+            if score < min_score:
+                break
+            url = sgdb_art(game["id"], key)
+            if url:
+                return {"searched": name, "game": game["name"], "url": url}
+    return {"searched": None, "game": None, "url": None}
+
+
+def add_icons(apps, save):
+    """Fill appIconUrl from lists/icons.json, looking up anything new on SteamGridDB.
+    Needs the SGDB_API_KEY environment variable; without it only cached icons are used."""
+    cache = load_json(ICONS_FILE, {})
+    key = os.environ.get("SGDB_API_KEY")
+    if not key:
+        log("SGDB_API_KEY not set - using cached icons only")
+    looked_up = 0
+    for app in apps:
+        k = app["repository"].lower()
+        if k not in cache and key:
+            try:
+                cache[k] = sgdb_lookup(app["name"], key)
+                looked_up += 1
+            except requests.RequestException as e:
+                log(f"  SteamGridDB lookup failed for {app['name']}: {e}")
+                if getattr(e.response, "status_code", None) in (401, 403):
+                    log("SteamGridDB rejected the API key - skipping the rest of the lookups")
+                    key = None
+        if app.get("appIconUrl") is None and k in cache:
+            app["appIconUrl"] = cache[k].get("url")
+    if looked_up:
+        log(f"looked up {looked_up} icons on SteamGridDB")
+        if save:
+            ICONS_FILE.write_text(json.dumps(dict(sorted(cache.items())), indent=2, ensure_ascii=False) + "\n",
+                                  encoding="utf-8")
+    log(f"icons: {sum(1 for a in apps if a.get('appIconUrl'))}/{len(apps)} apps")
+
+
 def bump(version):
     parts = (version or "1.0.0").split(".")
     parts[-1] = str(int(parts[-1]) + 1)
@@ -179,6 +291,7 @@ def main():
             seen.add(k)
             apps.append(app)
 
+    add_icons(apps, save=not args.dry_run)
     apps.sort(key=lambda a: (a["tags"][2] if len(a.get("tags", [])) > 2 else "", a["name"].lower()))
 
     old = load_json(OUT_FILE, {})

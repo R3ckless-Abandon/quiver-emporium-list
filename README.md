@@ -29,6 +29,7 @@ It only includes projects that are **not** already in the official Quiver commun
 |---|---|
 | `lists/manual.json` | Add apps by hand (same format as entries in the list) |
 | `lists/exclude.json` | Never include certain repos, e.g. `["owner/repo"]` |
+| `lists/icons.json` | Icon for each repo, matched on SteamGridDB. Fix a wrong one by changing its `url` (or set it to `null`); delete an entry to look it up again |
 
 ## Run locally
 
@@ -38,6 +39,17 @@ python scripts/build_list.py --dry-run          # see what would change
 python scripts/build_list.py                    # write the list
 python scripts/build_list.py --html saved.html  # test against a saved copy of the page
 ```
+
+## Icons
+
+New apps get an icon from [SteamGridDB](https://www.steamgriddb.com) (the game's top-voted icon, or a square cover).
+This needs a free API key (steamgriddb.com → Preferences → API) stored as a user environment variable:
+
+```
+setx SGDB_API_KEY <your key>
+```
+
+Without it the script still runs, but new apps won't get icons.
 
 ## Daily sync
 

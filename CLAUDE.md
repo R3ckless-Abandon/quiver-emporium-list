@@ -45,5 +45,6 @@ Official index: https://raw.githubusercontent.com/tgeorgiadis/quiver-community-a
 
 ## Nice-to-haves
 - Skip repos with no GitHub releases (Quiver can't install them). Use the GitHub API with `GITHUB_TOKEN` in the Action.
-- Icons: pull from SteamGridDB the way the official lists do.
+- ~~Icons~~ done 2026-10-06: `add_icons()` matches each title on SteamGridDB (key in user env var `SGDB_API_KEY`),
+  cached in `lists/icons.json` (249/262 found; ~13 fixed by hand, marked `"searched": "(by hand)"`).
 - Split into per-platform lists if one big list gets unwieldy.

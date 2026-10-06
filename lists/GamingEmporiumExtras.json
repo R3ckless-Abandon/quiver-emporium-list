@@ -1,7 +1,7 @@
 {
   "name": "Gaming Emporium Extras",
   "description": "Ports and recomps from The Gaming Emporium not in the official Quiver lists",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "iconUrl": null,
   "preferredTagFilters": [
     "recomp",
@@ -60,7 +60,7 @@
       "name": "Galaxy on Fire 2 Recompilation",
       "repository": "JoppieToppie/Galaxy-on-Fire-2-Unity-Remake",
       "folderName": "GalaxyonFire2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/4c0e3035d5d4f0a588e5374b17c964f4.jpg",
       "tags": [
         "recomp",
         "android",
@@ -71,7 +71,7 @@
       "name": "Daytona USA Arcade Recompilation",
       "repository": "alphanu1/daytona-arcade-recomp",
       "folderName": "DaytonaUSAArcadeRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/84445f9bf9203c148ad6809c64e170f2.png",
       "tags": [
         "recomp",
         "arcade",
@@ -82,7 +82,7 @@
       "name": "Decompilation of Namco System 22 - Rave Racer, Prop Cycle, Tokyo Wars",
       "repository": "spacestate1/namco22-decompile",
       "folderName": "DecompilationofNamcoSystem22RaveRacerPropCycleTokyoWars",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/5778a79540b9f459a7f2aff2a548eb54.jpg",
       "tags": [
         "decomp",
         "arcade",
@@ -104,7 +104,7 @@
       "name": "Hydro Thunder Online PC Port",
       "repository": "LANCommander/HydroThunderOnline",
       "folderName": "HydroThunderOnlinePCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/b867a9cd791fbbee1661f7d5d12cf97d.png",
       "tags": [
         "port",
         "arcade",
@@ -115,7 +115,7 @@
       "name": "Outrun - Cannonball",
       "repository": "djyt/cannonball",
       "folderName": "OutrunCannonball",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/412604be30f701b1b1e3124c252065e6/32/256x256.png",
       "tags": [
         "port",
         "arcade",
@@ -137,7 +137,7 @@
       "name": "Fatal Racing PC Port",
       "repository": "FatalDecomp/ROLLER",
       "folderName": "FatalRacingPCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/2abe563a4339099ed869eb0de0a34a0d.jpg",
       "tags": [
         "port",
         "dos",
@@ -148,7 +148,7 @@
       "name": "Street Rod Recompilation",
       "repository": "kylofon/streetrod-enhanced",
       "folderName": "StreetRodRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/fe6db3136bac6b0dbf66824e001c8484/32/512x512.png",
       "tags": [
         "recomp",
         "dos",
@@ -159,7 +159,7 @@
       "name": "Test Drive 2: The Duel Recompilation",
       "repository": "kylofon/testdrive2-enhanced",
       "folderName": "TestDrive2TheDuelRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/f8424d0091adba1bd4e44adc4027deb4.png",
       "tags": [
         "recomp",
         "dos",
@@ -170,7 +170,7 @@
       "name": "Test Drive 3: The Passion Port",
       "repository": "kylofon/testdrive3-enhanced",
       "folderName": "TestDrive3ThePassionPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/9a3ea6f65dc5ad6d97ed9273a67c7e59/24/256x256.png",
       "tags": [
         "port",
         "dos",
@@ -192,7 +192,7 @@
       "name": "Kirby's Dream Land Recompilation",
       "repository": "omegakatana92/Kirby-Dream-Land-Recomp",
       "folderName": "KirbysDreamLandRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/b81129068ebeabccd293d31c99d510f4/32/256x256.png",
       "tags": [
         "recomp",
         "gb",
@@ -214,7 +214,7 @@
       "name": "Wario Land: Super Mario Land 3 Recompilation",
       "repository": "GABRIELNNK/Bigodao",
       "folderName": "WarioLandSuperMarioLand3Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/26fd45817c0a0bb1e951d17fa7df947c.png",
       "tags": [
         "recomp",
         "gb",
@@ -236,7 +236,7 @@
       "name": "Mother 3 Recompilation",
       "repository": "agray0425/Mother3Recomp",
       "folderName": "Mother3Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5b69b9cb83065d403869739ae7f0995e.png",
       "tags": [
         "recomp",
         "gba",
@@ -247,7 +247,7 @@
       "name": "Pokemon Mystery Dungeon: Red Rescue Team Recompilation",
       "repository": "Asphaltian/pmd-green",
       "folderName": "PokemonMysteryDungeonRedRescueTeamRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/197f76fe309657064dbec74d9eea4be4/24/48x48.png",
       "tags": [
         "recomp",
         "gba",
@@ -269,7 +269,7 @@
       "name": "Super Mario Advance 2: Super Mario World Recompilation",
       "repository": "mstan/SuperMarioAdvance2Recomp",
       "folderName": "SuperMarioAdvance2SuperMarioWorldRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/3cbfb2330b21840b385a45c958602663.png",
       "tags": [
         "recomp",
         "gba",
@@ -280,7 +280,7 @@
       "name": "Super Mario Advance 4: Super Mario Bros. 3 Recompilation",
       "repository": "mstan/SuperMarioAdvance4Recomp",
       "folderName": "SuperMarioAdvance4SuperMarioBros3Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/124461dcd3571e6674ec4e0e140cc298.png",
       "tags": [
         "recomp",
         "gba",
@@ -291,7 +291,7 @@
       "name": "WarioWare: Twisted! Recompilation",
       "repository": "mstan/WarioWareTwistedRecomp",
       "folderName": "WarioWareTwistedRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ebfe4a43d46c01d811b34c14a3356904.png",
       "tags": [
         "recomp",
         "gba",
@@ -302,7 +302,7 @@
       "name": "Pokemon Crystal PC Port",
       "repository": "DanZC/suiCune",
       "folderName": "PokemonCrystalPCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/1f5f5b265100daad35b3a491e1c55351.png",
       "tags": [
         "port",
         "gbc",
@@ -313,7 +313,7 @@
       "name": "Gen2Recomp - Pokemon Gold, Silver and Crystal",
       "repository": "UNDERdecoded/Gen2Recomped",
       "folderName": "Gen2RecompPokemonGoldSilverandCrystal",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/4c01b0e5597b0887e9bf374d6429fe67.png",
       "tags": [
         "recomp",
         "gbc",
@@ -324,7 +324,7 @@
       "name": "Gen2Recomp - Pokemon Gold, Silver and Crystal DramaticShapes",
       "repository": "UNDERdecoded/Gen2Recomped-DramaticShapes",
       "folderName": "Gen2RecompPokemonGoldSilverandCrystalDramaticShapes",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/4c01b0e5597b0887e9bf374d6429fe67.png",
       "tags": [
         "recomp",
         "gbc",
@@ -335,7 +335,7 @@
       "name": "Mario Party 4 PC Port",
       "repository": "zeranemesis/Marioparty4",
       "folderName": "MarioParty4PCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/3e60e09c222f206c725385f53d7e567c.png",
       "tags": [
         "port",
         "gcn",
@@ -346,7 +346,7 @@
       "name": "Pikmin Recompilation",
       "repository": "SSunnKing/Open-Nectar---Pikmin-Decompilation-Linux-Port",
       "folderName": "PikminRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/f958b3920b055ab543a4e4a56f4324ae/32/256x256.png",
       "tags": [
         "recomp",
         "gcn",
@@ -357,7 +357,7 @@
       "name": "Serious Sam: Next Encounter Recompilation",
       "repository": "takoshero96/Silly-ReEncounter",
       "folderName": "SeriousSamNextEncounterRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e833405930e90a24f1b077fe5da8b214.png",
       "tags": [
         "recomp",
         "gcn",
@@ -368,7 +368,7 @@
       "name": "Super Mario Sunshine PC Port",
       "repository": "TekRantGaming/sms-pc-port",
       "folderName": "SuperMarioSunshinePCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/460b491b917d4185ed1f5be97229721a.png",
       "tags": [
         "port",
         "gcn",
@@ -379,7 +379,7 @@
       "name": "Super Smash Bros. Melee Recompilation - GD's Melee With Rollback Netplay",
       "repository": "GurekamDhillon/gd-melee-workspace",
       "folderName": "SuperSmashBrosMeleeRecompilationGDsMeleeWithRollbackNetplay",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e0688d13958a19e087e123148555e4b4.png",
       "tags": [
         "recomp",
         "gcn",
@@ -390,7 +390,7 @@
       "name": "Super Smash Bros. Melee Recompilation - Tag Fighter",
       "repository": "Joyastick/melee-pc-TagFighter",
       "folderName": "SuperSmashBrosMeleeRecompilationTagFighter",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e0688d13958a19e087e123148555e4b4.png",
       "tags": [
         "recomp",
         "gcn",
@@ -401,7 +401,7 @@
       "name": "The Legend of Zelda the Wind Waker Recompilation",
       "repository": "elliotttate/Wind-Waker-Recomp",
       "folderName": "TheLegendofZeldatheWindWakerRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/186c9b923fc7eb4df8e7b4cfbeb234b7.png",
       "tags": [
         "recomp",
         "gcn",
@@ -423,7 +423,7 @@
       "name": "Duck Hunt Recompilation",
       "repository": "mstan/DuckHuntNESRecomp",
       "folderName": "DuckHuntRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6b59f92676fd007e9cc45d7f3fdd51f4.png",
       "tags": [
         "recomp",
         "nes",
@@ -434,7 +434,7 @@
       "name": "Faxanadu Recompilation",
       "repository": "mstan/FaxanaduRecomp",
       "folderName": "FaxanaduRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/bde7b6425042bc526f895b0ddf422ae9.png",
       "tags": [
         "recomp",
         "nes",
@@ -445,7 +445,7 @@
       "name": "Gumshoe Recompilation",
       "repository": "mstan/GumshoeNESRecomp",
       "folderName": "GumshoeRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/e37ecd00cb27a33f043bfebf4c853be2/32/256x256.png",
       "tags": [
         "recomp",
         "nes",
@@ -456,7 +456,7 @@
       "name": "Mega Man 3 Recompilation",
       "repository": "mstan/Megaman3NESRecomp",
       "folderName": "MegaMan3Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/dcda54e29207294d8e7e1b537338b1c0.png",
       "tags": [
         "recomp",
         "nes",
@@ -467,7 +467,7 @@
       "name": "Metroid Recompilation",
       "repository": "mstan/MetroidNESRecomp",
       "folderName": "MetroidRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/06ccc6fac98a777fce43a972eaca83df/4/32x32.png",
       "tags": [
         "recomp",
         "nes",
@@ -489,7 +489,7 @@
       "name": "Pac-Man Recompilation",
       "repository": "Mr-Shizzy/PacManRecomp",
       "folderName": "PacManRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7269551457062ac80044ae5e0fb1b882.png",
       "tags": [
         "recomp",
         "nes",
@@ -500,7 +500,7 @@
       "name": "The Legend of Zelda Recompilation",
       "repository": "mstan/LegendOfZeldaNESRecomp",
       "folderName": "TheLegendofZeldaRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/7e19999864bb17b5cf10e68e3c7e6276/32/256x256.png",
       "tags": [
         "recomp",
         "nes",
@@ -511,7 +511,7 @@
       "name": "Yoshi Recompilation",
       "repository": "mstan/YoshiNESRecomp",
       "folderName": "YoshiRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/dc4781e4d7949791a2c973340de4a010.png",
       "tags": [
         "recomp",
         "nes",
@@ -522,7 +522,7 @@
       "name": "Yoshi's Cookie Recompilation",
       "repository": "mstan/YoshisCookieRecomp",
       "folderName": "YoshisCookieRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/33ce538f76f7a4060a93caa7bfd6c8c3.png",
       "tags": [
         "recomp",
         "nes",
@@ -533,7 +533,7 @@
       "name": "Banjo Kazooie Recompiled Stereoscopic 3D",
       "repository": "oneup03/BanjoRecomp3D",
       "folderName": "BanjoKazooieRecompiledStereoscopic3D",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/c133fb1bb634af68c5088f3438848bfd.png",
       "tags": [
         "recomp",
         "n64",
@@ -544,7 +544,7 @@
       "name": "Banjo-Tooie Recompilation",
       "repository": "some-scurvy-dog/BanjoTooieRecompiled",
       "folderName": "BanjoTooieRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/be027802089f254b812afd4f8cd5937e/32/64x64.png",
       "tags": [
         "recomp",
         "n64",
@@ -555,7 +555,7 @@
       "name": "Battleship - Smash Brothers 64 PC Port Netplay",
       "repository": "TechnicallyComputers/BattleShip",
       "folderName": "BattleshipSmashBrothers64PCPortNetplay",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5807a685d1a9ab3b599035bc566ce2b9.png",
       "tags": [
         "port",
         "n64",
@@ -566,7 +566,7 @@
       "name": "BattleTanx: Global Assault PC Port",
       "repository": "wootbeer/btgarecomp",
       "folderName": "BattleTanxGlobalAssaultPCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/918e3e308b85e78502c7232a9c304f40.png",
       "tags": [
         "port",
         "n64",
@@ -577,7 +577,7 @@
       "name": "Body Harvest Recompilation",
       "repository": "danielgomesvieira2000/body-harvest-recomp",
       "folderName": "BodyHarvestRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5bdbfef0e824d8cedb8c5da424f4bbac.png",
       "tags": [
         "recomp",
         "n64",
@@ -588,7 +588,7 @@
       "name": "Conker's Bad Fur Day Recompilation",
       "repository": "Conker64Recomp/conker64-recompiled",
       "folderName": "ConkersBadFurDayRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7cfe973cfd3353ecacc3ec1e53a1c5ea.png",
       "tags": [
         "recomp",
         "n64",
@@ -599,7 +599,7 @@
       "name": "Conker's Bad Fur Day Recompilation 2",
       "repository": "sciaschi/CBFD-Recompiled",
       "folderName": "ConkersBadFurDayRecompilation2",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7cfe973cfd3353ecacc3ec1e53a1c5ea.png",
       "tags": [
         "recomp",
         "n64",
@@ -610,7 +610,7 @@
       "name": "Conker's Bad Fur Day Reloaded Recompilation",
       "repository": "DahSidiAbdallah/ConkerBFDReloaded",
       "folderName": "ConkersBadFurDayReloadedRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7cfe973cfd3353ecacc3ec1e53a1c5ea.png",
       "tags": [
         "recomp",
         "n64",
@@ -621,7 +621,7 @@
       "name": "Doraemon: Nobita to Mittsu No Seireiseki Recompilation",
       "repository": "citrongames/Dora64",
       "folderName": "DoraemonNobitatoMittsuNoSeireisekiRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/4e04ce66c9fe588198858f23106b6f33.jpg",
       "tags": [
         "recomp",
         "n64",
@@ -632,7 +632,7 @@
       "name": "Golden Balloon - Diddy Kong Racing Recompilation",
       "repository": "akratch/golden-balloon",
       "folderName": "GoldenBalloonDiddyKongRacingRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a607946dc79f1013740366224ff2b175.png",
       "tags": [
         "recomp",
         "n64",
@@ -643,7 +643,7 @@
       "name": "GoldenEye 007 Plus",
       "repository": "Joshua-1248/GoldenEye-007-Plus",
       "folderName": "GoldenEye007Plus",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/c967fb654df41177901d1f5f135bf9e6.png",
       "tags": [
         "port",
         "n64",
@@ -654,7 +654,7 @@
       "name": "Hybrid Heaven Recompilation",
       "repository": "danielgomesvieira2000/hybrid-heaven-recomp",
       "folderName": "HybridHeavenRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/36c0482a72d18277c1ed8e89ebe1feff.png",
       "tags": [
         "recomp",
         "n64",
@@ -665,7 +665,7 @@
       "name": "Perfect Dark PC Port",
       "repository": "fgsfdsfgs/perfect_dark",
       "folderName": "PerfectDarkPCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/64314c17210c549a854f1f1c7adce8b6/32/256x256.png",
       "tags": [
         "port",
         "n64",
@@ -676,7 +676,7 @@
       "name": "Perfect Dark PC Port 2",
       "repository": "DabDavis/perfect-dark-dabs-mod",
       "folderName": "PerfectDarkPCPort2",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/64314c17210c549a854f1f1c7adce8b6/32/256x256.png",
       "tags": [
         "port",
         "n64",
@@ -687,7 +687,7 @@
       "name": "Perfect Dark Recompiled Stereoscopic 3D",
       "repository": "oneup03/perfect_dark_3D",
       "folderName": "PerfectDarkRecompiledStereoscopic3D",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/64314c17210c549a854f1f1c7adce8b6/32/256x256.png",
       "tags": [
         "recomp",
         "n64",
@@ -698,7 +698,7 @@
       "name": "Pilotwings 64 Recompilation 2",
       "repository": "NoahVl/Birdman64",
       "folderName": "Pilotwings64Recompilation2",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/c6d1db3b8c9c598d7c810afee405b57c.png",
       "tags": [
         "recomp",
         "n64",
@@ -709,7 +709,7 @@
       "name": "Quest 64 Recompilation 2",
       "repository": "boricuapab/quest64tale-recompiled",
       "folderName": "Quest64Recompilation2",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/cb11a12474e34b83e38e06d2ef1b2830.png",
       "tags": [
         "recomp",
         "n64",
@@ -720,7 +720,7 @@
       "name": "Rocket: Robot on Wheels Recompilation",
       "repository": "ThatGuyMcd/Rocket-R",
       "folderName": "RocketRobotonWheelsRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/d4ae8c1adb5ae04ae5ba30e9c7d249f7.png",
       "tags": [
         "recomp",
         "n64",
@@ -731,7 +731,7 @@
       "name": "Ship of Harkinian - Zelda Ocarina of Time Port - Cel Shaded Model Mod",
       "repository": "roborich/Shipwright",
       "folderName": "ShipofHarkinianZeldaOcarinaofTimePortCelShadedModelMod",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/d1cd0a8c9b28f58703a097d5a25534e3/32/256x256.png",
       "tags": [
         "mod",
         "n64",
@@ -742,7 +742,7 @@
       "name": "Snowboard Kids Recompilation",
       "repository": "cdlewis/snowboardkids-recomp",
       "folderName": "SnowboardKidsRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/f3e473999b625855bdf3f6a75f7b8f3a.png",
       "tags": [
         "recomp",
         "n64",
@@ -753,7 +753,7 @@
       "name": "Super Robot Wars 64 Recompilation",
       "repository": "dyzz/srw64-recomp",
       "folderName": "SuperRobotWars64Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/96b5e1ca75f17e8b7d8eb8688c0b13e6.png",
       "tags": [
         "recomp",
         "n64",
@@ -764,7 +764,7 @@
       "name": "The World Is Not Enough Recompilation",
       "repository": "riseio/TWIPE_00Sheven",
       "folderName": "TheWorldIsNotEnoughRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/24d6b7e76d8912b468a44154055220df/4/256x256.png",
       "tags": [
         "recomp",
         "n64",
@@ -775,7 +775,7 @@
       "name": "Turok: Rage Wars Recompilation",
       "repository": "ArtfulRascal8/rage-wars-recompiled",
       "folderName": "TurokRageWarsRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/12a5f0368ac55bbc43276ce879d4d4f1/32/256x256.png",
       "tags": [
         "recomp",
         "n64",
@@ -786,7 +786,7 @@
       "name": "Wave Race 64 Recompilation",
       "repository": "danielgomesvieira2000/wave-race-64-recomp",
       "folderName": "WaveRace64Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/65c2dd61d53e765e7c7363dbfe10cdd9.png",
       "tags": [
         "recomp",
         "n64",
@@ -797,7 +797,7 @@
       "name": "Ace Combat 3 Electrosphere Recompilation",
       "repository": "alexbeavs-ps1-ports/ace-combat-3-electrosphere-usa-recomp",
       "folderName": "AceCombat3ElectrosphereRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/19b456abc54f3472d0a15cb825adba71/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -808,7 +808,7 @@
       "name": "Advanced V.G. 2 Recompilation",
       "repository": "elprogramadorloco-arch/agvg2-recomp",
       "folderName": "AdvancedVG2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/b3b938e989563d316a15a78c2e16b84f.png",
       "tags": [
         "recomp",
         "psx",
@@ -819,7 +819,7 @@
       "name": "Alien Resurrection Recompilation",
       "repository": "Heromachine/AlienResurrection-Recompilation",
       "folderName": "AlienResurrectionRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/fc5c0cd21ddca3b39da73342bc41752c/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -841,7 +841,7 @@
       "name": "Armored Core Recompilation",
       "repository": "omegakatana92/Armored-Core-Recomp",
       "folderName": "ArmoredCoreRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/be5abab81bae109e1a01ea0ac2f6dde7/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -852,7 +852,7 @@
       "name": "Armored Core: Master of Arena Recompilation",
       "repository": "alexbeavs-ps1-ports/armored-core-master-of-arena-recomp",
       "folderName": "ArmoredCoreMasterofArenaRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/dd4da5c7a142b0bd99706d4f2aea61c9.png",
       "tags": [
         "recomp",
         "psx",
@@ -863,7 +863,7 @@
       "name": "Armored Core: Project Phantasma Recompilation",
       "repository": "alexbeavs-ps1-ports/armored-core-project-phantasma-recomp",
       "folderName": "ArmoredCoreProjectPhantasmaRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/c6cda87d296c9c18c95d11036186f965/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -885,7 +885,7 @@
       "name": "Azure Dreams Recompilation",
       "repository": "alexbeavs-ps1-ports/azure-dreams-recomp",
       "folderName": "AzureDreamsRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/65546ed1aea0d4a89d6aa035968c2a3d/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -896,7 +896,7 @@
       "name": "Blood Omen: Legacy of Kain Recompilation",
       "repository": "alexbeavs-ps1-ports/blood-omen-legacy-of-kain-recomp",
       "folderName": "BloodOmenLegacyofKainRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/547dcee2f9ccacd21cb7a6a758ca8697/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -907,7 +907,7 @@
       "name": "Brave Fencer Musashi Recompilation",
       "repository": "alexbeavs-ps1-ports/brave-fencer-musashi-recomp",
       "folderName": "BraveFencerMusashiRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/d33c628333c8ccf97697dd944d8e5a2d.png",
       "tags": [
         "recomp",
         "psx",
@@ -918,7 +918,7 @@
       "name": "Bushido Blade 2 Recompilation",
       "repository": "alexbeavs-ps1-ports/bushido-blade-2-recomp",
       "folderName": "BushidoBlade2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/148c2ad42607c372038edd48cad30120.png",
       "tags": [
         "recomp",
         "psx",
@@ -929,7 +929,7 @@
       "name": "Colin McRae Rally 2.0 Recompilation",
       "repository": "alexbeavs-ps1-ports/colin-mcrae-rally-2-0-recomp",
       "folderName": "ColinMcRaeRally20Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/07aa91ac1cec23a080b4a394dc52e183/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -940,7 +940,7 @@
       "name": "Colin McRae Rally Recompilation",
       "repository": "WeAnitTommyBruh/Colin-McRae-Rally-Recomp",
       "folderName": "ColinMcRaeRallyRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/55ea8538d761b1d93cd43333400bc445.jpg",
       "tags": [
         "recomp",
         "psx",
@@ -951,7 +951,7 @@
       "name": "Colony Wars Recompilation",
       "repository": "alexbeavs-ps1-ports/colony-wars-recomp",
       "folderName": "ColonyWarsRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/c790787d9a7c4289410e43ee1cc27373.png",
       "tags": [
         "recomp",
         "psx",
@@ -962,7 +962,7 @@
       "name": "Colony Wars: Red Sun Recompilation",
       "repository": "Alexbeav/colony-wars-red-sun-recomp",
       "folderName": "ColonyWarsRedSunRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/89d48e9a78be432b73bc381bed550687.jpg",
       "tags": [
         "recomp",
         "psx",
@@ -973,7 +973,7 @@
       "name": "Dance Dance Revolution 1st Mix Recompilation",
       "repository": "bmbelo87/ddr-1st-recomp",
       "folderName": "DanceDanceRevolution1stMixRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/49369ec618863ebb662b41c7ea1b6dd1/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -984,7 +984,7 @@
       "name": "Dead or Alive Recompilation",
       "repository": "3dge7161/Jiggle-or-Physics",
       "folderName": "DeadorAliveRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9a5859b8f76280c97c0c185a19d17014.png",
       "tags": [
         "recomp",
         "psx",
@@ -995,7 +995,7 @@
       "name": "Destruction Derby 2 Recompilation",
       "repository": "alexbeavs-ps1-ports/destruction-derby-2-recomp",
       "folderName": "DestructionDerby2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/f7779710d2026dca44c41da7a9b7c748/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1006,7 +1006,7 @@
       "name": "Destruction Derby Raw Recompilation",
       "repository": "alexbeavs-ps1-ports/destruction-derby-raw-recomp",
       "folderName": "DestructionDerbyRawRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/fc50322932b29b26cfc46fd9a91ec474/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1017,7 +1017,7 @@
       "name": "Devil Dice Recompilation",
       "repository": "alexbeavs-ps1-ports/devil-dice-recomp",
       "folderName": "DevilDiceRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/3792d187df6547ac7114f041a6dc4bba.png",
       "tags": [
         "recomp",
         "psx",
@@ -1028,7 +1028,7 @@
       "name": "Die Hard Trilogy Recompilation",
       "repository": "Alexbeav/die-hard-trilogy-recomp",
       "folderName": "DieHardTrilogyRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/740c6faec4dc6f885b63c458995f6332/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1039,7 +1039,7 @@
       "name": "Digimon World 2 Recompilation",
       "repository": "alexbeavs-ps1-ports/digimon-world-2-recomp",
       "folderName": "DigimonWorld2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/0407daa784ca04a4767a2be7ffd141e9.png",
       "tags": [
         "recomp",
         "psx",
@@ -1050,7 +1050,7 @@
       "name": "Digimon World Recompilation",
       "repository": "Ethan4love/Digimon-world-PSX-RECOMP",
       "folderName": "DigimonWorldRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/08931d765d99d3e849c9674cc289baf7.png",
       "tags": [
         "recomp",
         "psx",
@@ -1061,7 +1061,7 @@
       "name": "Disruptor Recompilation",
       "repository": "micmea668/DisruptorRecomp",
       "folderName": "DisruptorRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/56d05607f9ea470e93ccf82906ee92c3/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1072,7 +1072,7 @@
       "name": "Dragon Ball GT Final Bout Recompilation",
       "repository": "novapowers0/DB-Final-Bout-Recomp",
       "folderName": "DragonBallGTFinalBoutRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/cbf2da3dc6c42ee8b4e539b31b0e24e1.png",
       "tags": [
         "recomp",
         "psx",
@@ -1083,7 +1083,7 @@
       "name": "Dragon Ball Z: Ultimate Battle 22 Recompilation",
       "repository": "alexbeavs-ps1-ports/dragon-ball-z-ultimate-battle-22-recomp",
       "folderName": "DragonBallZUltimateBattle22Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/2fbe1c703f6893c2bc5066fcbcaa2048/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1094,7 +1094,7 @@
       "name": "Driver Recompilation",
       "repository": "alexbeavs-ps1-ports/driver-recomp",
       "folderName": "DriverRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/9e6a921fbc428b5638b3986e365d4f21/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1105,7 +1105,7 @@
       "name": "Duke Nukem: Land of the Babes Recompilation",
       "repository": "alexbeavs-ps1-ports/duke-nukem-land-of-the-babes-recomp",
       "folderName": "DukeNukemLandoftheBabesRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5d1fb61538e2d816200cec17d202eba1/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1116,7 +1116,7 @@
       "name": "Duke Nukem: Time to Kill Recompilation",
       "repository": "alexbeavs-ps1-ports/duke-nukem-time-to-kill-recomp",
       "folderName": "DukeNukemTimetoKillRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/2c05ff9a5ff26100a8e61da06f1a716b/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1127,7 +1127,7 @@
       "name": "Earthworm Jim 2 Recompilation",
       "repository": "elprogramadorloco-arch/jim2-recomp",
       "folderName": "EarthwormJim2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ab881944a0881e36f759347e6c1735ed.png",
       "tags": [
         "recomp",
         "psx",
@@ -1138,7 +1138,7 @@
       "name": "Fade to Black Recompilation",
       "repository": "alexbeavs-ps1-ports/fade-to-black-recomp",
       "folderName": "FadetoBlackRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/1a7da998ded68c09b6fb68853539e59a.png",
       "tags": [
         "recomp",
         "psx",
@@ -1149,7 +1149,7 @@
       "name": "Fear Effect 2: Retro Helix Recompilation",
       "repository": "alexbeavs-ps1-ports/fear-effect-2-retro-helix-recomp",
       "folderName": "FearEffect2RetroHelixRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/83323d5fa94b66f71130ea896433375e.png",
       "tags": [
         "recomp",
         "psx",
@@ -1160,7 +1160,7 @@
       "name": "Fear Effect Recompilation",
       "repository": "alexbeavs-ps1-ports/fear-effect-recomp",
       "folderName": "FearEffectRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/d9ee56d47bdcadd39f2ec0d61f571cf3.png",
       "tags": [
         "recomp",
         "psx",
@@ -1171,7 +1171,7 @@
       "name": "Fighting Force Recompilation",
       "repository": "alexbeavs-ps1-ports/fighting-force-recomp",
       "folderName": "FightingForceRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/03a07d614ab1040c167f45a3560de124/8/32x32.png",
       "tags": [
         "recomp",
         "psx",
@@ -1182,7 +1182,7 @@
       "name": "Future Cop: L.A.P.D. Recompilation",
       "repository": "alexbeavs-ps1-ports/future-cop-lapd-recomp",
       "folderName": "FutureCopLAPDRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/bb3fa9b98a782af29f14dc2876ca6f65/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1193,7 +1193,7 @@
       "name": "G-Police Recompilation",
       "repository": "alexbeavs-ps1-ports/g-police-recomp",
       "folderName": "GPoliceRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/320962619d5a31307176f820ce93067f.png",
       "tags": [
         "recomp",
         "psx",
@@ -1204,7 +1204,7 @@
       "name": "G-Police: Weapons of Justice Recompilation",
       "repository": "alexbeavs-ps1-ports/g-police-weapons-of-justice-recomp",
       "folderName": "GPoliceWeaponsofJusticeRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/5f72d94d74bb7d1cb343246da22de24b.jpg",
       "tags": [
         "recomp",
         "psx",
@@ -1215,7 +1215,7 @@
       "name": "Galerians Recompilation",
       "repository": "alexbeavs-ps1-ports/galerians-recomp",
       "folderName": "GaleriansRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/f31b90991086fb0698d581ee130a6c0b.png",
       "tags": [
         "recomp",
         "psx",
@@ -1226,7 +1226,7 @@
       "name": "Ghost in the Shell Recompilation",
       "repository": "alexbeavs-ps1-ports/ghost-in-the-shell-recomp",
       "folderName": "GhostintheShellRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/0cb5ebb1b34ec343dfe135db691e4a85/8/32x32.png",
       "tags": [
         "recomp",
         "psx",
@@ -1237,7 +1237,7 @@
       "name": "Gran Turismo 2 for Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR Recompilation",
       "repository": "dubrovskiy-yevhen-stakelogic/gt-2-pc",
       "folderName": "GranTurismo2forSteamDeckMacOSWindowsPCPCVRandQuest3Standalon",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/4f3942c89955fc7ec98eb5b61d2d6534/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1248,7 +1248,7 @@
       "name": "Gran Turismo 2 With Multiplayer Recompilation",
       "repository": "ianitsky/gt2-multiplayer",
       "folderName": "GranTurismo2WithMultiplayerRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/4f3942c89955fc7ec98eb5b61d2d6534/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1259,7 +1259,7 @@
       "name": "In Cold Blood Recompilation",
       "repository": "alexbeavs-ps1-ports/in-cold-blood-recomp",
       "folderName": "InColdBloodRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/d227309c6d46920e9bff16ba334e3487.png",
       "tags": [
         "recomp",
         "psx",
@@ -1270,7 +1270,7 @@
       "name": "Incredible Crisis Recompilation",
       "repository": "alexbeavs-ps1-ports/incredible-crisis-recomp",
       "folderName": "IncredibleCrisisRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/de65a3fb6d48ee7cd6f5f9309d16e3fb/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1281,7 +1281,7 @@
       "name": "Jade Cocoon: Story of the Tamamayu Recompilation",
       "repository": "alexbeavs-ps1-ports/jade-cocoon-recomp",
       "folderName": "JadeCocoonStoryoftheTamamayuRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7fe61f156a674de0eb34eee36d98f68e.png",
       "tags": [
         "recomp",
         "psx",
@@ -1292,7 +1292,7 @@
       "name": "Jet Moto Anthology Recompilation",
       "repository": "GTTeancum/Jet-Moto-Anthology",
       "folderName": "JetMotoAnthologyRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/0d92af1eab239465721da02549c61854.png",
       "tags": [
         "recomp",
         "psx",
@@ -1303,7 +1303,7 @@
       "name": "Kartia: The Word of Fate Recompilation",
       "repository": "alexbeavs-ps1-ports/kartia-recomp",
       "folderName": "KartiaTheWordofFateRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7b70922c241d472a0c2124a71b2d36cc.png",
       "tags": [
         "recomp",
         "psx",
@@ -1314,7 +1314,7 @@
       "name": "King's Field Recompilation",
       "repository": "Voicedrew11/verdite2",
       "folderName": "KingsFieldRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/d74fae468b41a43f1bca26b0da7d46e9/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1336,7 +1336,7 @@
       "name": "Koudelka Recompilation",
       "repository": "alexbeavs-ps1-ports/koudelka-recomp",
       "folderName": "KoudelkaRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/bceca960386ff1b9b627b4db3d12bf0e/4/16x16.png",
       "tags": [
         "recomp",
         "psx",
@@ -1347,7 +1347,7 @@
       "name": "Kula World Recompilation",
       "repository": "alexbeavs-ps1-ports/kula-world-recomp",
       "folderName": "KulaWorldRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/b885f244c5fc34723cbcfc6b2a78def2/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1358,7 +1358,7 @@
       "name": "Legacy of Kain: Soul Reaver Recompilation",
       "repository": "alexbeavs-ps1-ports/legacy-of-kain-soul-reaver-recomp",
       "folderName": "LegacyofKainSoulReaverRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/fcf70ea0bbeb4edca72cc304e75f4c98/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1369,7 +1369,7 @@
       "name": "Martian Gothic Recompilation",
       "repository": "alexbeavs-ps1-ports/martian-gothic-recomp",
       "folderName": "MartianGothicRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/0788a47045b1309f0418f3abdc832d65/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1380,7 +1380,7 @@
       "name": "MDK Recompilation",
       "repository": "alexbeavs-ps1-ports/mdk-recomp",
       "folderName": "MDKRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/6e007f295ed3142b78fb7df37b08ff91/32/1024x1024.png",
       "tags": [
         "recomp",
         "psx",
@@ -1391,7 +1391,7 @@
       "name": "MediEvil Recompilation",
       "repository": "alexbeavs-ps1-ports/medievil-recomp",
       "folderName": "MediEvilRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/85ba4c9aa69f722ed73d37afa4ad75ca.png",
       "tags": [
         "recomp",
         "psx",
@@ -1402,7 +1402,7 @@
       "name": "MediEvil Recompilation",
       "repository": "BlackLabelHQ/MediEvilRecomp",
       "folderName": "MediEvilRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/85ba4c9aa69f722ed73d37afa4ad75ca.png",
       "tags": [
         "recomp",
         "psx",
@@ -1413,7 +1413,7 @@
       "name": "Mega Man Legends 2 Recompilation",
       "repository": "alexbeavs-ps1-ports/mega-man-legends-2-recomp",
       "folderName": "MegaManLegends2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/cb41662fe265cad3ff1baab4df37b9fa.png",
       "tags": [
         "recomp",
         "psx",
@@ -1424,7 +1424,7 @@
       "name": "Mega Man Legends Recompilation",
       "repository": "alexbeavs-ps1-ports/mega-man-legends-recomp",
       "folderName": "MegaManLegendsRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/230b28a6218d432fec819aaefbdbed34.png",
       "tags": [
         "recomp",
         "psx",
@@ -1435,7 +1435,7 @@
       "name": "Men in Black: The Game Recompilation",
       "repository": "alexbeavs-ps1-ports/men-in-black-the-game-recomp",
       "folderName": "MeninBlackTheGameRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e6b3ce424cdbae54b1188ce7601940df.png",
       "tags": [
         "recomp",
         "psx",
@@ -1446,7 +1446,7 @@
       "name": "Metal Slug X Recompilation",
       "repository": "alexbeavs-ps1-ports/metal-slug-x-recomp",
       "folderName": "MetalSlugXRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/88dcc5a4bd60facf01829dc481c65c8e.png",
       "tags": [
         "recomp",
         "psx",
@@ -1457,7 +1457,7 @@
       "name": "Monster Rancher 2 Recompilation",
       "repository": "alexbeavs-ps1-ports/monster-rancher-2-recomp",
       "folderName": "MonsterRancher2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/1a5d21d74f96f53e6c08ed25a32915b6.png",
       "tags": [
         "recomp",
         "psx",
@@ -1468,7 +1468,7 @@
       "name": "Monster Rancher Recompilation",
       "repository": "alexbeavs-ps1-ports/monster-rancher-recomp",
       "folderName": "MonsterRancherRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/87281115244b278f591b01f037c8abff.jpg",
       "tags": [
         "recomp",
         "psx",
@@ -1479,7 +1479,7 @@
       "name": "Mortal Kombat 4 Recompilation",
       "repository": "alexbeavs-ps1-ports/mortal-kombat-4-recomp",
       "folderName": "MortalKombat4Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/dd1f2ad3a1bf536bc3d7ea8628152941/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1490,7 +1490,7 @@
       "name": "Mortal Kombat Trilogy Recompilation",
       "repository": "alexbeavs-ps1-ports/mortal-kombat-trilogy-recomp",
       "folderName": "MortalKombatTrilogyRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/1395aedb2e80ff1a254f499f51921910/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1501,7 +1501,7 @@
       "name": "Nightmare Creatures 2 Recompilation",
       "repository": "alexbeavs-ps1-ports/nightmare-creatures-ii-recomp",
       "folderName": "NightmareCreatures2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/80b684a68f08b78f660352dd6437b60b.png",
       "tags": [
         "recomp",
         "psx",
@@ -1512,7 +1512,7 @@
       "name": "Nightmare Creatures Recompilation",
       "repository": "alexbeavs-ps1-ports/nightmare-creatures-recomp",
       "folderName": "NightmareCreaturesRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/71af59614c8b42af334933e9261e53be/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1523,7 +1523,7 @@
       "name": "Oddworld: Abe's Oddysee Recompilation",
       "repository": "alexbeavs-ps1-ports/oddworld-abe-s-oddysee-recomp",
       "folderName": "OddworldAbesOddyseeRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/30eedf6b3d37757d887e6f4700771048/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1534,7 +1534,7 @@
       "name": "Parasite Eve Recompilation",
       "repository": "alexbeavs-ps1-ports/parasite-eve-recomp",
       "folderName": "ParasiteEveRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/292cdeba8144fb121619c52840aa1ce9/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1545,7 +1545,7 @@
       "name": "Pro Pinball: Timeshock! Recompilation",
       "repository": "alexbeavs-ps1-ports/pro-pinball-timeshock-recomp",
       "folderName": "ProPinballTimeshockRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/4c0be76313fda10284f62fd13ce43f40/8/64x64.png",
       "tags": [
         "recomp",
         "psx",
@@ -1556,7 +1556,7 @@
       "name": "Puyo Puyo Box Recompilation",
       "repository": "kirby1237/PuyoPuyoBoxRecomp",
       "folderName": "PuyoPuyoBoxRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/55f5bd17bd23bb1b9213f7b8a14bfa74.png",
       "tags": [
         "recomp",
         "psx",
@@ -1567,7 +1567,7 @@
       "name": "Quake 2 Recompilation",
       "repository": "alexbeavs-ps1-ports/quake-ii-recomp",
       "folderName": "Quake2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/436db71e03605b5aea1e08078f29f7f2.png",
       "tags": [
         "recomp",
         "psx",
@@ -1578,7 +1578,7 @@
       "name": "R-Type Delta Recompilation",
       "repository": "alexbeavs-ps1-ports/r-type-delta-recomp",
       "folderName": "RTypeDeltaRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/29a6aa8af3c942a277478a90aa4cae21/4/16x16.png",
       "tags": [
         "recomp",
         "psx",
@@ -1589,7 +1589,7 @@
       "name": "Ridge Racer Recompilation",
       "repository": "kazuyette/rr-decomp",
       "folderName": "RidgeRacerRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/1f8d87e1161af68b81bace188a1ec624/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1600,7 +1600,7 @@
       "name": "Ridge Racer Type 4 Recompilation",
       "repository": "omegakatana92/RidgeRacer4Recomp",
       "folderName": "RidgeRacerType4Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/f4380fd29ac34f2610014e8361d088fb/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1622,7 +1622,7 @@
       "name": "Rival Schools: United by Fate Recompilation",
       "repository": "alexbeavs-ps1-ports/rival-schools-recomp",
       "folderName": "RivalSchoolsUnitedbyFateRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7a3971a4d33f7daa4ed021e150c6ecc7.png",
       "tags": [
         "recomp",
         "psx",
@@ -1633,7 +1633,7 @@
       "name": "Rollcage Stage 2 Recompilation",
       "repository": "alexbeavs-ps1-ports/rollcage-stage-ii-recomp",
       "folderName": "RollcageStage2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/1abdd1363896305b867bff7bbd5b9efd.png",
       "tags": [
         "recomp",
         "psx",
@@ -1644,7 +1644,7 @@
       "name": "Samurai Shodown: Warriors Rage Recompilation",
       "repository": "omegakatana92/Samuai-Shodown-Warriors-Rage-Recomp",
       "folderName": "SamuraiShodownWarriorsRageRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/cf4b5a726732784a355f9aaf3311225b/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1655,7 +1655,7 @@
       "name": "Serial Experiments Lain Recompilation",
       "repository": "Y0oshi/lain-psx-decompiled",
       "folderName": "SerialExperimentsLainRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a6a506d4c5f267df973e248bb91942c0.png",
       "tags": [
         "recomp",
         "psx",
@@ -1666,7 +1666,7 @@
       "name": "Shadow Tower Recompilation",
       "repository": "JFryy/reshadowtower",
       "folderName": "ShadowTowerRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/99a03297cd334305eeb21e19bf0ad056.png",
       "tags": [
         "recomp",
         "psx",
@@ -1677,7 +1677,7 @@
       "name": "Silent Bomber Recompilation",
       "repository": "alexbeavs-ps1-ports/silent-bomber-recomp",
       "folderName": "SilentBomberRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/67076f7df46efd28b0bb319c42c64550.png",
       "tags": [
         "recomp",
         "psx",
@@ -1688,7 +1688,7 @@
       "name": "Soul Blade Recompilation",
       "repository": "fabioap-cpu/SoulBlade_Recomp",
       "folderName": "SoulBladeRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5ffaa9f5182c2a36843f438bb1fdbdea/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1699,7 +1699,7 @@
       "name": "Spider Man and Spider Man 2: Enter Electro Recompilation",
       "repository": "GTTeancum/OpenSpideyPS1",
       "folderName": "SpiderManandSpiderMan2EnterElectroRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/900ed5ed4aeef20ab790a57aeb7fc796/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1710,7 +1710,7 @@
       "name": "Star Wars Episode I: The Phantom Menace Recompilation",
       "repository": "alexbeavs-ps1-ports/star-wars-episode-i-the-phantom-menace-recomp",
       "folderName": "StarWarsEpisodeIThePhantomMenaceRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/411d393824b67db8bad71a4fb00d5773/4/32x32.png",
       "tags": [
         "recomp",
         "psx",
@@ -1721,7 +1721,7 @@
       "name": "Syphon Filter 3 Recompilation",
       "repository": "alexbeavs-ps1-ports/syphon-filter-3-recomp",
       "folderName": "SyphonFilter3Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e3e8b4a227bbef7d84573b2635f799b4.png",
       "tags": [
         "recomp",
         "psx",
@@ -1732,7 +1732,7 @@
       "name": "Tail Concerto Recompilation",
       "repository": "alexbeavs-ps1-ports/tail-concerto-recomp",
       "folderName": "TailConcertoRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/bc8147ca69573b8a699c18e7ddbcfb48.png",
       "tags": [
         "recomp",
         "psx",
@@ -1743,7 +1743,7 @@
       "name": "Team Buddies Recompilation",
       "repository": "alexbeavs-ps1-ports/team-buddies-recomp",
       "folderName": "TeamBuddiesRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7a769d43321df14f25c7a2318bb8c4a5.png",
       "tags": [
         "recomp",
         "psx",
@@ -1754,7 +1754,7 @@
       "name": "Tekken 3 Recompilation - 18 Tekken Tag Tournament Characters Expansion",
       "repository": "omarma/tekken3-expanded",
       "folderName": "Tekken3Recompilation18TekkenTagTournamentCharactersExpansion",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/c16fcce846042d65044d795b4b7a16e3/32/256x256.png",
       "tags": [
         "mod",
         "psx",
@@ -1765,7 +1765,7 @@
       "name": "Tekken 3 With Jun Kazama Recompilation",
       "repository": "FishB0nes98/Tekken3Recompiled",
       "folderName": "Tekken3WithJunKazamaRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/c16fcce846042d65044d795b4b7a16e3/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1776,7 +1776,7 @@
       "name": "The Fifth Element Recompilation",
       "repository": "alexbeavs-ps1-ports/the-fifth-element-recomp",
       "folderName": "TheFifthElementRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/44374c1f0ebad6dc48951e6c20c25806/4/32x32.png",
       "tags": [
         "recomp",
         "psx",
@@ -1787,7 +1787,7 @@
       "name": "The Lost World: Jurassic Park Special Edition Recompilation",
       "repository": "alexbeavs-ps1-ports/the-lost-world-jurassic-park-special-edition-recomp",
       "folderName": "TheLostWorldJurassicParkSpecialEditionRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/97f4662485e3ae1eafba5359c5637a9f.jpg",
       "tags": [
         "recomp",
         "psx",
@@ -1798,7 +1798,7 @@
       "name": "The Misadventures of Tron Bonne Recompilation",
       "repository": "alexbeavs-ps1-ports/misadventures-of-tron-bonne-recomp",
       "folderName": "TheMisadventuresofTronBonneRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/8ed16b12adc574bb06ec2cb2f5479952.png",
       "tags": [
         "recomp",
         "psx",
@@ -1809,7 +1809,7 @@
       "name": "The Mummy Recompilation",
       "repository": "alexbeavs-ps1-ports/the-mummy-recomp",
       "folderName": "TheMummyRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/76eac68b8d2923713428270133e03d3f.png",
       "tags": [
         "recomp",
         "psx",
@@ -1820,7 +1820,7 @@
       "name": "Threads of Fate Recompilation",
       "repository": "alexbeavs-ps1-ports/threads-of-fate-recomp",
       "folderName": "ThreadsofFateRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/32b0f0c831fcfa16c3fea5442d9d5bc6/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1831,7 +1831,7 @@
       "name": "Tokyo Highway Battle Recompilation",
       "repository": "alexbeavs-ps1-ports/tokyo-highway-battle-recomp",
       "folderName": "TokyoHighwayBattleRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/b5e0deef6c2a87a87e19f30538d32980.png",
       "tags": [
         "recomp",
         "psx",
@@ -1842,7 +1842,7 @@
       "name": "Tony Hawk's Pro Skater 2 Recompilation",
       "repository": "alexbeavs-ps1-ports/tony-hawk-s-pro-skater-2-recomp",
       "folderName": "TonyHawksProSkater2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/258e130476290221f597c56d351224b6.png",
       "tags": [
         "recomp",
         "psx",
@@ -1853,7 +1853,7 @@
       "name": "Tony Hawk's Pro Skater 3 Recompilation",
       "repository": "alexbeavs-ps1-ports/tony-hawk-s-pro-skater-3-recomp",
       "folderName": "TonyHawksProSkater3Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e8d66338fab3727e34a9179ed8804f64.png",
       "tags": [
         "recomp",
         "psx",
@@ -1864,7 +1864,7 @@
       "name": "Tony Hawk's Pro Skater 4 Recompilation",
       "repository": "alexbeavs-ps1-ports/tony-hawk-s-pro-skater-4-recomp",
       "folderName": "TonyHawksProSkater4Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/9d007f0cbf2123eb7b76e757ff4a0b0d/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1875,7 +1875,7 @@
       "name": "Tony Hawk's Pro Skater Recompilation",
       "repository": "alexbeavs-ps1-ports/tony-hawk-s-pro-skater-recomp",
       "folderName": "TonyHawksProSkaterRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/28ebcd55e4c70cd6ab37a6c7181bd14c/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1886,7 +1886,7 @@
       "name": "Toy Story 2 - Buzz Lightyear to the Rescue Recompilation",
       "repository": "PeriBluGaming/ToyStory2Recomp",
       "folderName": "ToyStory2BuzzLightyeartotheRescueRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/57cd21e7a1d76e20efe72f0597524dcc/32/768x768.png",
       "tags": [
         "recomp",
         "psx",
@@ -1897,7 +1897,7 @@
       "name": "Vampire Hunter D Recompilation",
       "repository": "alexbeavs-ps1-ports/vampire-hunter-d-recomp",
       "folderName": "VampireHunterDRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/699d9ce40d4528b2805aab05409614d6/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1908,7 +1908,7 @@
       "name": "Vib Ribbon Recompilation",
       "repository": "alexbeavs-ps1-ports/vib-ribbon-recomp",
       "folderName": "VibRibbonRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/cadc05a1cd428a9f7e66915eb109f4f9/4/96x96.png",
       "tags": [
         "recomp",
         "psx",
@@ -1919,7 +1919,7 @@
       "name": "Vigilante 8 and Vigilante 8: 2nd Offense Recompilation",
       "repository": "GTTeancum/Vigilante-8-recomp",
       "folderName": "Vigilante8andVigilante82ndOffenseRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5c189c8af264bcf258bf18cd0a8328eb.png",
       "tags": [
         "recomp",
         "psx",
@@ -1930,7 +1930,7 @@
       "name": "Wild Arms Recompilation",
       "repository": "alexbeavs-ps1-ports/wild-arms-recomp",
       "folderName": "WildArmsRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ca851e9f71b25d2d588b7e0d4de3d627.png",
       "tags": [
         "recomp",
         "psx",
@@ -1941,7 +1941,7 @@
       "name": "Wipeout Recompilation",
       "repository": "alexbeavs-ps1-ports/wipeout-recomp",
       "folderName": "WipeoutRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/aec851e565646f6835e915293381e20a.png",
       "tags": [
         "recomp",
         "psx",
@@ -1952,7 +1952,7 @@
       "name": "Wipeout XL Recompilation",
       "repository": "alexbeavs-ps1-ports/wipeout-xl-recomp",
       "folderName": "WipeoutXLRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6944d4d43c2ec200647b67e58153a123.png",
       "tags": [
         "recomp",
         "psx",
@@ -1963,7 +1963,7 @@
       "name": "Xena: Warrior Princess Recompilation",
       "repository": "alexbeavs-ps1-ports/xena-warrior-princess-recomp",
       "folderName": "XenaWarriorPrincessRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/8108e7580d35a6df529b4cd78137c5aa/32/256x256.png",
       "tags": [
         "recomp",
         "psx",
@@ -1974,7 +1974,7 @@
       "name": "Amplitude Recompilation",
       "repository": "ztpeditor/project-amp",
       "folderName": "AmplitudeRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/896f3c065d05cefcf3fe2852a7875109.png",
       "tags": [
         "recomp",
         "ps2",
@@ -1986,7 +1986,7 @@
       "name": "Dark Cloud 2 Recompilation",
       "repository": "Red-tv141/DC2-PS2RECOMP",
       "folderName": "DarkCloud2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/88a17ceb5a8401c33bfe808784842ef7.png",
       "tags": [
         "recomp",
         "ps2",
@@ -1997,7 +1997,7 @@
       "name": "OpenGoal - Jak & Daxter, Jak 2 and Jak 3 Native PC Ports",
       "repository": "open-goal/jak-project",
       "folderName": "OpenGoalJakDaxterJak2andJak3NativePCPorts",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/48ecd78598456095d654c9196f973b00.png",
       "tags": [
         "port",
         "ps2",
@@ -2008,7 +2008,7 @@
       "name": "Ridge Racer v Recompilation",
       "repository": "danisandoval/fukami",
       "folderName": "RidgeRacervRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/6c7de1f27f7de61a6daddfffbe05c058/32/512x512.png",
       "tags": [
         "recomp",
         "ps2",
@@ -2019,7 +2019,7 @@
       "name": "Bloodborne Port",
       "repository": "deadinside28/bloodborne_pc",
       "folderName": "BloodbornePort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/b0b14130d4056e057f7234fc60a8bd58.png",
       "tags": [
         "port",
         "ps4",
@@ -2030,7 +2030,7 @@
       "name": "Dead Cells PC Port",
       "repository": "OverkillLabs/DeadCells-PS5-Native",
       "folderName": "DeadCellsPCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/165d3981d84bfa463ab80c11685b63c5/32/512x512.png",
       "tags": [
         "port",
         "ps5",
@@ -2041,7 +2041,7 @@
       "name": "God of War: Sons of Sparta Recompilation",
       "repository": "OverkillLabs3/SoS-PS5",
       "folderName": "GodofWarSonsofSpartaRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/0f9f1f3a18bc049980bbf23f503d7b49/32/256x256.png",
       "tags": [
         "recomp",
         "ps5",
@@ -2052,7 +2052,7 @@
       "name": "Crash Team Racing High Octane",
       "repository": "Rinnegatamante/Crash-Team-Racing-High-Octane",
       "folderName": "CrashTeamRacingHighOctane",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/60b3e151bedcf3b359795a583abbe1f1/32/256x256.png",
       "tags": [
         "port",
         "vita",
@@ -2063,7 +2063,7 @@
       "name": "Fate Unlimited Codes Recompilation",
       "repository": "elprogramadorloco-arch/fuc-recomp",
       "folderName": "FateUnlimitedCodesRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e528fff5c6807c9f797e110d49bb5154.png",
       "tags": [
         "recomp",
         "psp",
@@ -2074,7 +2074,7 @@
       "name": "GTA: Liberty City Stories Recompilation",
       "repository": "elmasas/lcs-recomp",
       "folderName": "GTALibertyCityStoriesRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/65d2ea03425887a717c435081cfc5dbb/32/256x256.png",
       "tags": [
         "recomp",
         "psp",
@@ -2085,7 +2085,7 @@
       "name": "GTA: Vice City Stories Recompilation",
       "repository": "jessicanataliagta/PSPRecomp",
       "folderName": "GTAViceCityStoriesRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/95192c98732387165bf8e396c0f2dad2/32/256x256.png",
       "tags": [
         "recomp",
         "psp",
@@ -2096,7 +2096,7 @@
       "name": "MotorStorm Arctic Edge Recompilation",
       "repository": "coole42-pixel/PSPRecomp-MSAE",
       "folderName": "MotorStormArcticEdgeRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/be8db1c59541c1462c935870f5bfeed5.png",
       "tags": [
         "recomp",
         "psp",
@@ -2107,7 +2107,7 @@
       "name": "Knuckles' Chaotix Recompilation",
       "repository": "YuutaTsubasa/ChaotixRecompiled",
       "folderName": "KnucklesChaotixRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/87f6b1d5ecf9e60c4ea0bdc89b2085e5/8/256x256.png",
       "tags": [
         "recomp",
         "32x",
@@ -2118,7 +2118,7 @@
       "name": "Virtua Racing Recompilation",
       "repository": "matiaszanolli/sega-vr-disasm",
       "folderName": "VirtuaRacingRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9b01ea73aa4de36440a527d52e63870a.png",
       "tags": [
         "recomp",
         "32x",
@@ -2129,7 +2129,7 @@
       "name": "Space Channel 5 Recompilation",
       "repository": "ZoomiesZaggy/Space-Channel-5",
       "folderName": "SpaceChannel5Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/92251e8665e19be62c86ff039528e16e/32/512x512.png",
       "tags": [
         "recomp",
         "dreamcast",
@@ -2140,7 +2140,7 @@
       "name": "Sonic the Hedgehog (2013) and Sonic the Hedgehog 2 (2013) Decompilation",
       "repository": "RSDKModding/RSDKv4-Decompilation",
       "folderName": "SonictheHedgehog2013andSonictheHedgehog22013Decompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/f33ba15effa5c10e873bf3842afb46a6/32/256x256.png",
       "tags": [
         "decomp",
         "genesis",
@@ -2151,7 +2151,7 @@
       "name": "Tiny Toon Adventures: Buster's Hidden Treasure PC Port",
       "repository": "Darhkfox/busters-hidden-treasure-pc",
       "folderName": "TinyToonAdventuresBustersHiddenTreasurePCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7f169e8ba2553717e869803364c15ee7.png",
       "tags": [
         "port",
         "genesis",
@@ -2162,7 +2162,7 @@
       "name": "ActRaiser Recompilation",
       "repository": "DerrickGold/ar-recomp",
       "folderName": "ActRaiserRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/4b883095e08b1ca499906af10f0eea3e/32/256x256.png",
       "tags": [
         "recomp",
         "snes",
@@ -2173,7 +2173,7 @@
       "name": "EarthBound PC Port",
       "repository": "TheRunaway5/Phase-Distorter",
       "folderName": "EarthBoundPCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/3cf166c6b73f030b4f67eeaeba301103.png",
       "tags": [
         "port",
         "snes",
@@ -2184,7 +2184,7 @@
       "name": "F-Zero Recompilation",
       "repository": "craigshaw/FZeroRecomp",
       "folderName": "FZeroRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/2050e03ca119580f74cca14cc6e97462/24/256x256.png",
       "tags": [
         "recomp",
         "snes",
@@ -2195,7 +2195,7 @@
       "name": "International Superstar Soccer Deluxe Recompilation",
       "repository": "sergiomanzur/issd-native",
       "folderName": "InternationalSuperstarSoccerDeluxeRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/4abc9add236fe14f4ab798cbb7127b9a.png",
       "tags": [
         "recomp",
         "snes",
@@ -2206,7 +2206,7 @@
       "name": "Jungle Strike Recompilation",
       "repository": "Junior-Jones/Jungle-Strike-SNES-Static-Recomp",
       "folderName": "JungleStrikeRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/152830abb65020d0f6949cb584760162.png",
       "tags": [
         "recomp",
         "snes",
@@ -2217,7 +2217,7 @@
       "name": "Lufia 2 Recompilation",
       "repository": "Cellenseres/Lufia2SNESRecomp",
       "folderName": "Lufia2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/96b3b02fe3b67dc64a30f2798aaf3a42.png",
       "tags": [
         "recomp",
         "snes",
@@ -2228,7 +2228,7 @@
       "name": "Star Fox Enhanced PC Port",
       "repository": "kandowontu2/starfox-enhanced",
       "folderName": "StarFoxEnhancedPCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6c19e0a6da12dc02239312f151072ddd.png",
       "tags": [
         "port",
         "snes",
@@ -2239,7 +2239,7 @@
       "name": "The Legend of Zelda a Link to the Past Decompilation",
       "repository": "snesrev/zelda3",
       "folderName": "TheLegendofZeldaaLinktothePastDecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/61f7b92a1aa7a88d4cee7dff7d98e7f0.png",
       "tags": [
         "decomp",
         "snes",
@@ -2250,7 +2250,7 @@
       "name": "The Legend of Zelda: A Link to the Past Recompilation",
       "repository": "mstan/ZeldaAlttPSNESRecomp",
       "folderName": "TheLegendofZeldaALinktothePastRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/61f7b92a1aa7a88d4cee7dff7d98e7f0.png",
       "tags": [
         "recomp",
         "snes",
@@ -2261,7 +2261,7 @@
       "name": "Tiny Toon Adventures: Buster Busts Loose! Recompilation",
       "repository": "Darhkfox/BusterBustsLoose",
       "folderName": "TinyToonAdventuresBusterBustsLooseRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/14ea0c66c8880377adab0c2c561dbdda.png",
       "tags": [
         "recomp",
         "snes",
@@ -2272,7 +2272,7 @@
       "name": "Zombies Ate My Neighbors PC Port",
       "repository": "moshferatu/zombies-ate-my-neighbors-pc-port",
       "folderName": "ZombiesAteMyNeighborsPCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/3d3621cee6f49e93a34f3f0f654ab41a.png",
       "tags": [
         "port",
         "snes",
@@ -2283,7 +2283,7 @@
       "name": "Mario Tennis Recompilation",
       "repository": "mstan/MarioTennisVirtualBoyRecomp",
       "folderName": "MarioTennisRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/3716117c62e07aa6f23b6fe84990378e.png",
       "tags": [
         "recomp",
         "vb",
@@ -2294,7 +2294,7 @@
       "name": "SD Gundam: Dimension War Recompilation",
       "repository": "mstan/SDGundamDimensionWarVirtualBoyRecomp",
       "folderName": "SDGundamDimensionWarRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/0d85a1801523003fa2d043699e6e8d86/32/256x256.png",
       "tags": [
         "recomp",
         "vb",
@@ -2305,7 +2305,7 @@
       "name": "Mario Strikers Charged Recompilation",
       "repository": "BlackAndBlue95/Strikers-WiiCompiled",
       "folderName": "MarioStrikersChargedRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ac9815bef801f58de83804bce86984ad.png",
       "tags": [
         "recomp",
         "wii",
@@ -2316,7 +2316,7 @@
       "name": "The Legend of Zelda the Wind Waker HD Recompilation",
       "repository": "ZeldaWWHDRecomp/ZeldaWWHDRecomp",
       "folderName": "TheLegendofZeldatheWindWakerHDRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/f023559c6d59c04e3804209f573dbff9/32/256x256.png",
       "tags": [
         "recomp",
         "wiiu",
@@ -2327,7 +2327,7 @@
       "name": "Alone in the Dark Rehaunted Recompilation",
       "repository": "spacefarergames/AloneInTheDarkReHaunted",
       "folderName": "AloneintheDarkRehauntedRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/26f0714fb58aade4a66a5a5f9cb16b14/32/32x32.png",
       "tags": [
         "recomp",
         "pc",
@@ -2338,7 +2338,7 @@
       "name": "Crimsonland Recompilation",
       "repository": "banteg/crimson",
       "folderName": "CrimsonlandRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/0e999d31b23f3f89049b91cc014296c8.png",
       "tags": [
         "recomp",
         "pc",
@@ -2349,7 +2349,7 @@
       "name": "Dreams to Reality Recompilation",
       "repository": "jlagedo/dreams-to-reality-re",
       "folderName": "DreamstoRealityRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/03216ae930a5a5a9962a823c448e1d29.jpg",
       "tags": [
         "recomp",
         "pc",
@@ -2360,7 +2360,7 @@
       "name": "Ecstatica 1 and 2 Recompilation",
       "repository": "spacefarergames/EcstaticaRecompiled",
       "folderName": "Ecstatica1and2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/3f7a3adfe7d711b63db0181131e5f8dc.png",
       "tags": [
         "recomp",
         "pc",
@@ -2371,7 +2371,7 @@
       "name": "Resident Evil Recompilation",
       "repository": "ecruells/resident-evil-pc-decomp",
       "folderName": "ResidentEvilRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/8eedf769a83524a00a200373ce900374.png",
       "tags": [
         "recomp",
         "pc",
@@ -2382,7 +2382,7 @@
       "name": "Sheep, Dog 'N' Wolf Recompilation",
       "repository": "SheepStealer2001/sdw-decomp",
       "folderName": "SheepDogNWolfRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/8dddd5d6f5c804dc8c34745c7bd2036e/8/32x32.png",
       "tags": [
         "recomp",
         "pc",
@@ -2393,7 +2393,7 @@
       "name": "Sim Copter Reimplementation",
       "repository": "JamesIV4/sim-copter-remake",
       "folderName": "SimCopterReimplementation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/b7db8eb6a0a83abb6308b8842ca6f1ff/4/32x32.png",
       "tags": [
         "port",
         "pc",
@@ -2404,7 +2404,7 @@
       "name": "Sim Tower Port",
       "repository": "kandowontu/simtower-native-windows-port",
       "folderName": "SimTowerPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/2926a056ab7387e08459497d7e416017.png",
       "tags": [
         "port",
         "pc",
@@ -2415,7 +2415,7 @@
       "name": "Sonic Mania Decompilation",
       "repository": "RSDKModding/Sonic-Mania-Decompilation",
       "folderName": "SonicManiaDecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/937fabd012267af84cb7c075c47e68b4/32/512x512.png",
       "tags": [
         "decomp",
         "pc",
@@ -2426,7 +2426,7 @@
       "name": "Star Wars: X-Wing Reimplementation",
       "repository": "elyosh/OpenXW",
       "folderName": "StarWarsXWingReimplementation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/01b89008144733a570aa96ab859bfb09/32/256x256.png",
       "tags": [
         "port",
         "pc",
@@ -2437,7 +2437,7 @@
       "name": "Star Wars: X-Wing vs. TIE Fighter Recompilation",
       "repository": "elyosh/OpenXvT",
       "folderName": "StarWarsXWingvsTIEFighterRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/57198de0fd9b28665ba93b8c07ccbae3/8/32x32.png",
       "tags": [
         "recomp",
         "pc",
@@ -2448,7 +2448,7 @@
       "name": "Test Drive PC Port",
       "repository": "kylofon/testdrive-enhanced",
       "folderName": "TestDrivePCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/0e508729a4545fec985788e7a31cb925.jpg",
       "tags": [
         "port",
         "pc",
@@ -2459,7 +2459,7 @@
       "name": "Woody Woodpecker: Escape From Buzz Buzzard Park Recompilation",
       "repository": "jjmhalew/WoodyRE",
       "folderName": "WoodyWoodpeckerEscapeFromBuzzBuzzardParkRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/8c54a7fc28e51f7848876a4a90fbf0b2/32/256x256.png",
       "tags": [
         "recomp",
         "pc",
@@ -2470,7 +2470,7 @@
       "name": "Buffy the Vampire Slayer: Chaos Bleeds Recompilation",
       "repository": "KaikoClanworth1/buffy-chaos-bleeds-pc",
       "folderName": "BuffytheVampireSlayerChaosBleedsRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e951935d8b53e453adec7a89355be49c.png",
       "tags": [
         "recomp",
         "xbox",
@@ -2481,7 +2481,7 @@
       "name": "Dead or Alive Xtreme Beach Volleyball Recompilation",
       "repository": "NoRain211/doaxbv-re",
       "folderName": "DeadorAliveXtremeBeachVolleyballRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/f54fd264edeb6c5043be90f1570d4ea3.png",
       "tags": [
         "recomp",
         "xbox",
@@ -2492,7 +2492,7 @@
       "name": "ESPN NFL 2K5 Native PC Port",
       "repository": "BeyondTomrrow/2K5Remade",
       "folderName": "ESPNNFL2K5NativePCPort",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/2da22496e4afdf5c24de98c404030188.png",
       "tags": [
         "port",
         "xbox",
@@ -2503,7 +2503,7 @@
       "name": "Halo: Combat Evolved Recompilation",
       "repository": "cybersecurity/halo-ce-universal",
       "folderName": "HaloCombatEvolvedRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/045cf83ab0722e782cf72d14e44adf98.png",
       "tags": [
         "recomp",
         "xbox",
@@ -2514,7 +2514,7 @@
       "name": "Spider-Man 2 Recompilation",
       "repository": "SirSymo/SM2-Recomp",
       "folderName": "SpiderMan2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/acf666483bc8723fae7feda6f6a9cb7a.png",
       "tags": [
         "recomp",
         "xbox",
@@ -2525,7 +2525,7 @@
       "name": "SSX Tricky Recompilation",
       "repository": "GiZcesi/OpenTricky",
       "folderName": "SSXTrickyRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/2be8328f41144106f7144802f2367487.png",
       "tags": [
         "recomp",
         "xbox",
@@ -2536,7 +2536,7 @@
       "name": "Call of Duty: Modern Warfare 2 Recompilation",
       "repository": "PaulCombal/mw2-recompiled",
       "folderName": "CallofDutyModernWarfare2Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/a0145b7aca5cd4db8b13e285e9f5300f/32/256x256.png",
       "tags": [
         "recomp",
         "x360",
@@ -2547,7 +2547,7 @@
       "name": "Crash of the Titans Recompilation",
       "repository": "OAleex/MojoRecomp",
       "folderName": "CrashoftheTitansRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/370bfb31abd222b582245b977ea5f25a.png",
       "tags": [
         "recomp",
         "x360",
@@ -2558,7 +2558,7 @@
       "name": "Daytona USA Recompilation",
       "repository": "Subarasheese/daytona-xbla-recomp",
       "folderName": "DaytonaUSARecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/84445f9bf9203c148ad6809c64e170f2.png",
       "tags": [
         "recomp",
         "x360",
@@ -2569,7 +2569,7 @@
       "name": "Diablo 3 Xbox 360 Recompilation",
       "repository": "Boron853/Souls-of-the-Reaper",
       "folderName": "Diablo3Xbox360Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/aeb3135b436aa55373822c010763dd54.png",
       "tags": [
         "recomp",
         "x360",
@@ -2580,7 +2580,7 @@
       "name": "Dodonpachi Saidaioujou Recompilation",
       "repository": "eandis/SDOJ-Recomp",
       "folderName": "DodonpachiSaidaioujouRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/c6a4e5ee4096de6d60f7b9ef20dc6412.png",
       "tags": [
         "recomp",
         "x360",
@@ -2591,7 +2591,7 @@
       "name": "Dragon Ball Z: Burst Limit Recompilation",
       "repository": "iExplosiveRage/DBZ-Burst-Limit-Recompiled",
       "folderName": "DragonBallZBurstLimitRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/15ba4a985b497db630021097082b4ce2/32/64x64.png",
       "tags": [
         "recomp",
         "x360",
@@ -2602,7 +2602,7 @@
       "name": "FIFA Street Recompilation",
       "repository": "samuelitodavila-group/fifa-street-pc",
       "folderName": "FIFAStreetRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/3ae810fa9de039bf5ec9514ed1ead333.png",
       "tags": [
         "recomp",
         "x360",
@@ -2614,7 +2614,7 @@
       "name": "Forza Horizon Recompilation",
       "repository": "arcanite24/pinyon-shift",
       "folderName": "ForzaHorizonRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/fa5ad4dfd8d40266b5f9a9f2fd2ca5fe/32/256x256.png",
       "tags": [
         "recomp",
         "x360",
@@ -2625,7 +2625,7 @@
       "name": "Forza Motorsport 4 Recompilation",
       "repository": "Alexbeav/fm4-recomp",
       "folderName": "ForzaMotorsport4Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/1cb4790d32af93c3146cb2c6b0d98920/32/256x256.png",
       "tags": [
         "recomp",
         "x360",
@@ -2636,7 +2636,7 @@
       "name": "Gears of War: Judgment Recompilation",
       "repository": "OverkillLabs2/gears-judgment-recomp",
       "folderName": "GearsofWarJudgmentRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/95f87ebabd3c387bf83fe09b2d93069c/32/256x256.png",
       "tags": [
         "recomp",
         "x360",
@@ -2647,7 +2647,7 @@
       "name": "Infinite Undiscovery Recompilation",
       "repository": "doc-haz/infinite-undiscovery-recomp",
       "folderName": "InfiniteUndiscoveryRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6da90f2a0b3f4ec73e51ed71ae0ab475.png",
       "tags": [
         "recomp",
         "x360",
@@ -2658,7 +2658,7 @@
       "name": "Lollipop Chainsaw Recompilation",
       "repository": "MaxDeadBear/Re-Cherry",
       "folderName": "LollipopChainsawRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/6708cd22b331bbf82512ad295a5a407a/32/512x512.png",
       "tags": [
         "recomp",
         "x360",
@@ -2669,7 +2669,7 @@
       "name": "Metal Slug XX Recompilation",
       "repository": "FluffyQuack/rexglue-MetalSlugXX",
       "folderName": "MetalSlugXXRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/0f2ad81c100f7a6c7475bd26ceb76cbf.png",
       "tags": [
         "recomp",
         "x360",
@@ -2680,7 +2680,7 @@
       "name": "Mortal Kombat vs. DC Universe Recompilation",
       "repository": "KawaiiBunga/MKVDCU-Recomp",
       "folderName": "MortalKombatvsDCUniverseRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/02cf7b95eaf630256990316ef6d5bcb3/32/64x64.png",
       "tags": [
         "recomp",
         "x360",
@@ -2691,7 +2691,7 @@
       "name": "Naruto: Rise of a Ninja Recompilation",
       "repository": "jorjbarbosa/naruto-rise-recomp",
       "folderName": "NarutoRiseofaNinjaRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/38ed4039c0b33e2ec51cc4579405d03e.png",
       "tags": [
         "recomp",
         "x360",
@@ -2702,7 +2702,7 @@
       "name": "NBA JAM: On Fire Edition Recompilation",
       "repository": "GTTeancum/OpenJam",
       "folderName": "NBAJAMOnFireEditionRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/42d41a654fbc8ae69d5c1b62a0dbf3cb.png",
       "tags": [
         "recomp",
         "x360",
@@ -2713,7 +2713,7 @@
       "name": "Need for Speed: Most Wanted Recompilation",
       "repository": "madelrandel-blip/NFSMW-Recompiled",
       "folderName": "NeedforSpeedMostWantedRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/fdd456dd0d2fd28e0f6fcdffbcdd7601/32/256x256.png",
       "tags": [
         "recomp",
         "x360",
@@ -2724,7 +2724,7 @@
       "name": "NocturneRecomp - Castlevania Symphony of the Night XBLA Recompilation",
       "repository": "birabittoh/NocturneRecomp",
       "folderName": "NocturneRecompCastlevaniaSymphonyoftheNightXBLARecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/eadccc9ad3d1c5ce3861fabfbf759493.png",
       "tags": [
         "recomp",
         "x360",
@@ -2746,7 +2746,7 @@
       "name": "Perfect Dark Xbox 360 Recompilation",
       "repository": "nikolaygorb/PerfectDarkRemasterRecomp",
       "folderName": "PerfectDarkXbox360Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/64314c17210c549a854f1f1c7adce8b6/32/256x256.png",
       "tags": [
         "recomp",
         "x360",
@@ -2757,7 +2757,7 @@
       "name": "Peter Jackson's King Kong Recompilation",
       "repository": "TekRantGaming/king-kong-recompiled",
       "folderName": "PeterJacksonsKingKongRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9638d91ecb50d03683088611e5e65d9f.png",
       "tags": [
         "recomp",
         "x360",
@@ -2768,7 +2768,7 @@
       "name": "Rayman Origins Recompilation",
       "repository": "BelmanteGu/RaymanOriginsRecomp",
       "folderName": "RaymanOriginsRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/c56030557e55275663bd45b48cd0223e/32/256x256.png",
       "tags": [
         "recomp",
         "x360",
@@ -2779,7 +2779,7 @@
       "name": "Real Steel Recompilation",
       "repository": "thefixinhixon/RealSteelRecomp",
       "folderName": "RealSteelRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/710eec06bc39ec7c6bd28ddf5f3a5668/32/64x64.png",
       "tags": [
         "recomp",
         "x360",
@@ -2790,7 +2790,7 @@
       "name": "Saints Row Recompilation",
       "repository": "whompay/SaintsReborn",
       "folderName": "SaintsRowRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9e367753046ffb248fecdedec7e78568.png",
       "tags": [
         "recomp",
         "x360",
@@ -2801,7 +2801,7 @@
       "name": "Skate 3 Recompilation 1",
       "repository": "portingpete/skate3-recomp",
       "folderName": "Skate3Recompilation1",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/dae9ad236c11ee65425921309851a162/32/512x512.png",
       "tags": [
         "recomp",
         "x360",
@@ -2812,7 +2812,7 @@
       "name": "Sonic Free Riders Recompilation",
       "repository": "YuutaTsubasa/Free-Riders-Recompiled",
       "folderName": "SonicFreeRidersRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/e47172648719cad3559fed4241415c3f/32/256x256.png",
       "tags": [
         "recomp",
         "x360",
@@ -2823,7 +2823,7 @@
       "name": "Sonic the Fighters Recompilation",
       "repository": "SparkosTheWolf/FightersRecomp",
       "folderName": "SonictheFightersRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e4e2602e040333a9d03277cf9312e1a7.png",
       "tags": [
         "recomp",
         "x360",
@@ -2834,7 +2834,7 @@
       "name": "Sonic the Hedgehog 2006 Recompilation",
       "repository": "sonicnext-dev/MarathonRecomp",
       "folderName": "SonictheHedgehog2006Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/b6b3598b407b7f328e3129c74ca8ca94/32/256x256.png",
       "tags": [
         "recomp",
         "x360",
@@ -2845,7 +2845,7 @@
       "name": "Spider-Man: Edge of Time Recompilation 2",
       "repository": "goliathret/EdgeOfTimeRecomp",
       "folderName": "SpiderManEdgeofTimeRecompilation2",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/677fa4059ee76333f9bb9a7920aef719.png",
       "tags": [
         "recomp",
         "x360",
@@ -2856,7 +2856,7 @@
       "name": "Splatterhouse 2010 Recompilation",
       "repository": "0c0de/splatterhouse-decomp",
       "folderName": "Splatterhouse2010Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/94aada62f90dd50a84ca74304563d5db.png",
       "tags": [
         "recomp",
         "x360",
@@ -2867,7 +2867,7 @@
       "name": "Splosion Man Recompilation",
       "repository": "thefixinhixon/SplosionManRecomp",
       "folderName": "SplosionManRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/1869fb91c7518887d7bda05bae6af9e7.png",
       "tags": [
         "recomp",
         "x360",
@@ -2878,7 +2878,7 @@
       "name": "Street Fighter 3: 3rd Strike Online Edition Recompilation",
       "repository": "updeshxp/SF3TSOEReborn",
       "folderName": "StreetFighter33rdStrikeOnlineEditionRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/97b21687a279e25c7a74e7cfb9005bba/32/64x64.png",
       "tags": [
         "recomp",
         "x360",
@@ -2889,7 +2889,7 @@
       "name": "The Darkness Recompilation",
       "repository": "portingpete/The-Darkness-Recomp",
       "folderName": "TheDarknessRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/0838b43cd426373043e340b9f79985bd.jpg",
       "tags": [
         "recomp",
         "x360",
@@ -2900,7 +2900,7 @@
       "name": "Viva Pinata Recompilation",
       "repository": "crabinacrabic/VivaPinataRecomp",
       "folderName": "VivaPinataRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/9a8565d27fe7c2bbdde0a6100337191c/32/256x256.png",
       "tags": [
         "recomp",
         "x360",
@@ -2911,7 +2911,7 @@
       "name": "WET Recompilation",
       "repository": "Supermedo/wet-recomp",
       "folderName": "WETRecompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/bb8fbba83e94ed1b810468317bf9d286.png",
       "tags": [
         "recomp",
         "x360",
@@ -2922,7 +2922,7 @@
       "name": "WWE '13 Recompilation",
       "repository": "PromethenDev/wwe13-recomp",
       "folderName": "WWE13Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/59a3e5c5684f2219aeba5934fc50e8bb/32/64x64.png",
       "tags": [
         "recomp",
         "x360",
@@ -2933,7 +2933,7 @@
       "name": "WWE SmackDown vs. Raw 2011 Recompilation",
       "repository": "shaneomac1337/SVR2011-Recomp",
       "folderName": "WWESmackDownvsRaw2011Recompilation",
-      "appIconUrl": null,
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/4819cb6499a58830f6309d138de97405.png",
       "tags": [
         "recomp",
         "x360",
