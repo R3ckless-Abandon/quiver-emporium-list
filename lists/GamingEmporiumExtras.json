@@ -1,7 +1,7 @@
 {
   "name": "Gaming Emporium Extras",
   "description": "Ports and recomps from The Gaming Emporium not in the official Quiver lists",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "iconUrl": null,
   "preferredTagFilters": [
     "recomp",
@@ -2049,9 +2049,9 @@
       ]
     },
     {
-      "name": "Crash Team Racing PC Port",
+      "name": "Crash Team Racing High Octane",
       "repository": "Rinnegatamante/Crash-Team-Racing-High-Octane",
-      "folderName": "CrashTeamRacingPCPort",
+      "folderName": "CrashTeamRacingHighOctane",
       "appIconUrl": null,
       "tags": [
         "port",
