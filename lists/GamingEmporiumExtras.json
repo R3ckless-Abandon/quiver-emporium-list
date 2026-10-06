@@ -1,0 +1,2944 @@
+{
+  "name": "Gaming Emporium Extras",
+  "description": "Ports and recomps from The Gaming Emporium not in the official Quiver lists",
+  "version": "1.0.2",
+  "iconUrl": null,
+  "preferredTagFilters": [
+    "recomp",
+    "decomp",
+    "port",
+    "mod",
+    "n64",
+    "snes",
+    "nes",
+    "gb",
+    "gbc",
+    "gba",
+    "gcn",
+    "wii",
+    "nds",
+    "3ds",
+    "psx",
+    "ps2",
+    "psp",
+    "xbox",
+    "x360",
+    "arcade",
+    "pc"
+  ],
+  "hiddenTagFilters": [
+    "android",
+    "arcade",
+    "dos",
+    "game boy",
+    "game boy advance",
+    "game boy color",
+    "game boy colour",
+    "gamecube",
+    "ipod",
+    "nes",
+    "nintendo 64",
+    "playstation",
+    "playstation 2",
+    "playstation 4",
+    "playstation 5",
+    "ps vita",
+    "psp",
+    "sega 32x",
+    "sega dreamcast",
+    "sega megadrive",
+    "snes",
+    "virtual boy",
+    "wii",
+    "wii u",
+    "windows",
+    "xbox",
+    "xbox 360"
+  ],
+  "apps": [
+    {
+      "name": "Galaxy on Fire 2 Recompilation",
+      "repository": "JoppieToppie/Galaxy-on-Fire-2-Unity-Remake",
+      "folderName": "GalaxyonFire2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "android",
+        "android"
+      ]
+    },
+    {
+      "name": "Daytona USA Arcade Recompilation",
+      "repository": "alphanu1/daytona-arcade-recomp",
+      "folderName": "DaytonaUSAArcadeRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "arcade",
+        "arcade"
+      ]
+    },
+    {
+      "name": "Decompilation of Namco System 22 - Rave Racer, Prop Cycle, Tokyo Wars",
+      "repository": "spacestate1/namco22-decompile",
+      "folderName": "DecompilationofNamcoSystem22RaveRacerPropCycleTokyoWars",
+      "appIconUrl": null,
+      "tags": [
+        "decomp",
+        "arcade",
+        "arcade"
+      ]
+    },
+    {
+      "name": "GTI Club 2 - Thrill Drive 2 Recompilation",
+      "repository": "spita90/konami-viper-recomp",
+      "folderName": "GTIClub2ThrillDrive2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "arcade",
+        "arcade"
+      ]
+    },
+    {
+      "name": "Hydro Thunder Online PC Port",
+      "repository": "LANCommander/HydroThunderOnline",
+      "folderName": "HydroThunderOnlinePCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "arcade",
+        "arcade"
+      ]
+    },
+    {
+      "name": "Outrun - Cannonball",
+      "repository": "djyt/cannonball",
+      "folderName": "OutrunCannonball",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "arcade",
+        "arcade"
+      ]
+    },
+    {
+      "name": "Aces of the Pacific Recompilation",
+      "repository": "kylofon/acesofthepacific-enhanced",
+      "folderName": "AcesofthePacificRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "dos",
+        "dos"
+      ]
+    },
+    {
+      "name": "Fatal Racing PC Port",
+      "repository": "FatalDecomp/ROLLER",
+      "folderName": "FatalRacingPCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "dos",
+        "dos"
+      ]
+    },
+    {
+      "name": "Street Rod Recompilation",
+      "repository": "kylofon/streetrod-enhanced",
+      "folderName": "StreetRodRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "dos",
+        "dos"
+      ]
+    },
+    {
+      "name": "Test Drive 2: The Duel Recompilation",
+      "repository": "kylofon/testdrive2-enhanced",
+      "folderName": "TestDrive2TheDuelRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "dos",
+        "dos"
+      ]
+    },
+    {
+      "name": "Test Drive 3: The Passion Port",
+      "repository": "kylofon/testdrive3-enhanced",
+      "folderName": "TestDrive3ThePassionPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "dos",
+        "dos"
+      ]
+    },
+    {
+      "name": "Gen1Recomp 3D Overworld Character Replacement Mod",
+      "repository": "CurlyG004/porygonal-overworld-characters",
+      "folderName": "Gen1Recomp3DOverworldCharacterReplacementMod",
+      "appIconUrl": null,
+      "tags": [
+        "mod",
+        "gb",
+        "game boy"
+      ]
+    },
+    {
+      "name": "Kirby's Dream Land Recompilation",
+      "repository": "omegakatana92/Kirby-Dream-Land-Recomp",
+      "folderName": "KirbysDreamLandRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gb",
+        "game boy"
+      ]
+    },
+    {
+      "name": "Pokemon Red, Blue and Yellow Recompilation Dramatic Shape Voxel Mod",
+      "repository": "DramaticShape/DramaticShapeVoxelMod",
+      "folderName": "PokemonRedBlueandYellowRecompilationDramaticShapeVoxelMod",
+      "appIconUrl": null,
+      "tags": [
+        "mod",
+        "gb",
+        "game boy"
+      ]
+    },
+    {
+      "name": "Wario Land: Super Mario Land 3 Recompilation",
+      "repository": "GABRIELNNK/Bigodao",
+      "folderName": "WarioLandSuperMarioLand3Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gb",
+        "game boy"
+      ]
+    },
+    {
+      "name": "Gundam SEED: Battle Assault Recompilation",
+      "repository": "omegakatana92/Gundam-Seed-Battle-Assault-Recomp",
+      "folderName": "GundamSEEDBattleAssaultRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gba",
+        "game boy advance"
+      ]
+    },
+    {
+      "name": "Mother 3 Recompilation",
+      "repository": "agray0425/Mother3Recomp",
+      "folderName": "Mother3Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gba",
+        "game boy advance"
+      ]
+    },
+    {
+      "name": "Pokemon Mystery Dungeon: Red Rescue Team Recompilation",
+      "repository": "Asphaltian/pmd-green",
+      "folderName": "PokemonMysteryDungeonRedRescueTeamRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gba",
+        "game boy advance"
+      ]
+    },
+    {
+      "name": "Shrek Recompilation",
+      "repository": "mstan/ShrekGBAVideoRecomp",
+      "folderName": "ShrekRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gba",
+        "game boy advance"
+      ]
+    },
+    {
+      "name": "Super Mario Advance 2: Super Mario World Recompilation",
+      "repository": "mstan/SuperMarioAdvance2Recomp",
+      "folderName": "SuperMarioAdvance2SuperMarioWorldRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gba",
+        "game boy advance"
+      ]
+    },
+    {
+      "name": "Super Mario Advance 4: Super Mario Bros. 3 Recompilation",
+      "repository": "mstan/SuperMarioAdvance4Recomp",
+      "folderName": "SuperMarioAdvance4SuperMarioBros3Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gba",
+        "game boy advance"
+      ]
+    },
+    {
+      "name": "WarioWare: Twisted! Recompilation",
+      "repository": "mstan/WarioWareTwistedRecomp",
+      "folderName": "WarioWareTwistedRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gba",
+        "game boy advance"
+      ]
+    },
+    {
+      "name": "Pokemon Crystal PC Port",
+      "repository": "DanZC/suiCune",
+      "folderName": "PokemonCrystalPCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "gbc",
+        "game boy color"
+      ]
+    },
+    {
+      "name": "Gen2Recomp - Pokemon Gold, Silver and Crystal",
+      "repository": "UNDERdecoded/Gen2Recomped",
+      "folderName": "Gen2RecompPokemonGoldSilverandCrystal",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gbc",
+        "game boy colour"
+      ]
+    },
+    {
+      "name": "Gen2Recomp - Pokemon Gold, Silver and Crystal DramaticShapes",
+      "repository": "UNDERdecoded/Gen2Recomped-DramaticShapes",
+      "folderName": "Gen2RecompPokemonGoldSilverandCrystalDramaticShapes",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gbc",
+        "game boy colour"
+      ]
+    },
+    {
+      "name": "Mario Party 4 PC Port",
+      "repository": "zeranemesis/Marioparty4",
+      "folderName": "MarioParty4PCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "gcn",
+        "gamecube"
+      ]
+    },
+    {
+      "name": "Pikmin Recompilation",
+      "repository": "SSunnKing/Open-Nectar---Pikmin-Decompilation-Linux-Port",
+      "folderName": "PikminRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gcn",
+        "gamecube"
+      ]
+    },
+    {
+      "name": "Serious Sam: Next Encounter Recompilation",
+      "repository": "takoshero96/Silly-ReEncounter",
+      "folderName": "SeriousSamNextEncounterRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gcn",
+        "gamecube"
+      ]
+    },
+    {
+      "name": "Super Mario Sunshine PC Port",
+      "repository": "TekRantGaming/sms-pc-port",
+      "folderName": "SuperMarioSunshinePCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "gcn",
+        "gamecube"
+      ]
+    },
+    {
+      "name": "Super Smash Bros. Melee Recompilation - GD's Melee With Rollback Netplay",
+      "repository": "GurekamDhillon/gd-melee-workspace",
+      "folderName": "SuperSmashBrosMeleeRecompilationGDsMeleeWithRollbackNetplay",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gcn",
+        "gamecube"
+      ]
+    },
+    {
+      "name": "Super Smash Bros. Melee Recompilation - Tag Fighter",
+      "repository": "Joyastick/melee-pc-TagFighter",
+      "folderName": "SuperSmashBrosMeleeRecompilationTagFighter",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gcn",
+        "gamecube"
+      ]
+    },
+    {
+      "name": "The Legend of Zelda the Wind Waker Recompilation",
+      "repository": "elliotttate/Wind-Waker-Recomp",
+      "folderName": "TheLegendofZeldatheWindWakerRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "gcn",
+        "gamecube"
+      ]
+    },
+    {
+      "name": "IPod Classic Games Recompiled",
+      "repository": "DogParty/iPodClickWheelRecomps",
+      "folderName": "IPodClassicGamesRecompiled",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "ipod",
+        "ipod"
+      ]
+    },
+    {
+      "name": "Duck Hunt Recompilation",
+      "repository": "mstan/DuckHuntNESRecomp",
+      "folderName": "DuckHuntRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "nes",
+        "nes"
+      ]
+    },
+    {
+      "name": "Faxanadu Recompilation",
+      "repository": "mstan/FaxanaduRecomp",
+      "folderName": "FaxanaduRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "nes",
+        "nes"
+      ]
+    },
+    {
+      "name": "Gumshoe Recompilation",
+      "repository": "mstan/GumshoeNESRecomp",
+      "folderName": "GumshoeRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "nes",
+        "nes"
+      ]
+    },
+    {
+      "name": "Mega Man 3 Recompilation",
+      "repository": "mstan/Megaman3NESRecomp",
+      "folderName": "MegaMan3Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "nes",
+        "nes"
+      ]
+    },
+    {
+      "name": "Metroid Recompilation",
+      "repository": "mstan/MetroidNESRecomp",
+      "folderName": "MetroidRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "nes",
+        "nes"
+      ]
+    },
+    {
+      "name": "Nesrecomp - NES Recompiler Project",
+      "repository": "mstan/nesrecomp",
+      "folderName": "NesrecompNESRecompilerProject",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "nes",
+        "nes"
+      ]
+    },
+    {
+      "name": "Pac-Man Recompilation",
+      "repository": "Mr-Shizzy/PacManRecomp",
+      "folderName": "PacManRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "nes",
+        "nes"
+      ]
+    },
+    {
+      "name": "The Legend of Zelda Recompilation",
+      "repository": "mstan/LegendOfZeldaNESRecomp",
+      "folderName": "TheLegendofZeldaRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "nes",
+        "nes"
+      ]
+    },
+    {
+      "name": "Yoshi Recompilation",
+      "repository": "mstan/YoshiNESRecomp",
+      "folderName": "YoshiRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "nes",
+        "nes"
+      ]
+    },
+    {
+      "name": "Yoshi's Cookie Recompilation",
+      "repository": "mstan/YoshisCookieRecomp",
+      "folderName": "YoshisCookieRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "nes",
+        "nes"
+      ]
+    },
+    {
+      "name": "Banjo Kazooie Recompiled Stereoscopic 3D",
+      "repository": "oneup03/BanjoRecomp3D",
+      "folderName": "BanjoKazooieRecompiledStereoscopic3D",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Banjo-Tooie Recompilation",
+      "repository": "some-scurvy-dog/BanjoTooieRecompiled",
+      "folderName": "BanjoTooieRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Battleship - Smash Brothers 64 PC Port Netplay",
+      "repository": "TechnicallyComputers/BattleShip",
+      "folderName": "BattleshipSmashBrothers64PCPortNetplay",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "BattleTanx: Global Assault PC Port",
+      "repository": "wootbeer/btgarecomp",
+      "folderName": "BattleTanxGlobalAssaultPCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Body Harvest Recompilation",
+      "repository": "danielgomesvieira2000/body-harvest-recomp",
+      "folderName": "BodyHarvestRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Conker's Bad Fur Day Recompilation",
+      "repository": "Conker64Recomp/conker64-recompiled",
+      "folderName": "ConkersBadFurDayRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Conker's Bad Fur Day Recompilation 2",
+      "repository": "sciaschi/CBFD-Recompiled",
+      "folderName": "ConkersBadFurDayRecompilation2",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Conker's Bad Fur Day Reloaded Recompilation",
+      "repository": "DahSidiAbdallah/ConkerBFDReloaded",
+      "folderName": "ConkersBadFurDayReloadedRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Doraemon: Nobita to Mittsu No Seireiseki Recompilation",
+      "repository": "citrongames/Dora64",
+      "folderName": "DoraemonNobitatoMittsuNoSeireisekiRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Golden Balloon - Diddy Kong Racing Recompilation",
+      "repository": "akratch/golden-balloon",
+      "folderName": "GoldenBalloonDiddyKongRacingRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "GoldenEye 007 Plus",
+      "repository": "Joshua-1248/GoldenEye-007-Plus",
+      "folderName": "GoldenEye007Plus",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Hybrid Heaven Recompilation",
+      "repository": "danielgomesvieira2000/hybrid-heaven-recomp",
+      "folderName": "HybridHeavenRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Perfect Dark PC Port",
+      "repository": "fgsfdsfgs/perfect_dark",
+      "folderName": "PerfectDarkPCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Perfect Dark PC Port 2",
+      "repository": "DabDavis/perfect-dark-dabs-mod",
+      "folderName": "PerfectDarkPCPort2",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Perfect Dark Recompiled Stereoscopic 3D",
+      "repository": "oneup03/perfect_dark_3D",
+      "folderName": "PerfectDarkRecompiledStereoscopic3D",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Pilotwings 64 Recompilation 2",
+      "repository": "NoahVl/Birdman64",
+      "folderName": "Pilotwings64Recompilation2",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Quest 64 Recompilation 2",
+      "repository": "boricuapab/quest64tale-recompiled",
+      "folderName": "Quest64Recompilation2",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Rocket: Robot on Wheels Recompilation",
+      "repository": "ThatGuyMcd/Rocket-R",
+      "folderName": "RocketRobotonWheelsRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Ship of Harkinian - Zelda Ocarina of Time Port - Cel Shaded Model Mod",
+      "repository": "roborich/Shipwright",
+      "folderName": "ShipofHarkinianZeldaOcarinaofTimePortCelShadedModelMod",
+      "appIconUrl": null,
+      "tags": [
+        "mod",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Snowboard Kids Recompilation",
+      "repository": "cdlewis/snowboardkids-recomp",
+      "folderName": "SnowboardKidsRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Super Robot Wars 64 Recompilation",
+      "repository": "dyzz/srw64-recomp",
+      "folderName": "SuperRobotWars64Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "The World Is Not Enough Recompilation",
+      "repository": "riseio/TWIPE_00Sheven",
+      "folderName": "TheWorldIsNotEnoughRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Turok: Rage Wars Recompilation",
+      "repository": "ArtfulRascal8/rage-wars-recompiled",
+      "folderName": "TurokRageWarsRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Wave Race 64 Recompilation",
+      "repository": "danielgomesvieira2000/wave-race-64-recomp",
+      "folderName": "WaveRace64Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Ace Combat 3 Electrosphere Recompilation",
+      "repository": "alexbeavs-ps1-ports/ace-combat-3-electrosphere-usa-recomp",
+      "folderName": "AceCombat3ElectrosphereRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Advanced V.G. 2 Recompilation",
+      "repository": "elprogramadorloco-arch/agvg2-recomp",
+      "folderName": "AdvancedVG2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Alien Resurrection Recompilation",
+      "repository": "Heromachine/AlienResurrection-Recompilation",
+      "folderName": "AlienResurrectionRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Another Mind Recompilation",
+      "repository": "halkuncode/anothermind-decomp",
+      "folderName": "AnotherMindRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Armored Core Recompilation",
+      "repository": "omegakatana92/Armored-Core-Recomp",
+      "folderName": "ArmoredCoreRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Armored Core: Master of Arena Recompilation",
+      "repository": "alexbeavs-ps1-ports/armored-core-master-of-arena-recomp",
+      "folderName": "ArmoredCoreMasterofArenaRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Armored Core: Project Phantasma Recompilation",
+      "repository": "alexbeavs-ps1-ports/armored-core-project-phantasma-recomp",
+      "folderName": "ArmoredCoreProjectPhantasmaRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Asuka 120% Final - Burning Fest. Final Recompilation",
+      "repository": "elprogramadorloco-arch/asuka100-recomp",
+      "folderName": "Asuka120FinalBurningFestFinalRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Azure Dreams Recompilation",
+      "repository": "alexbeavs-ps1-ports/azure-dreams-recomp",
+      "folderName": "AzureDreamsRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Blood Omen: Legacy of Kain Recompilation",
+      "repository": "alexbeavs-ps1-ports/blood-omen-legacy-of-kain-recomp",
+      "folderName": "BloodOmenLegacyofKainRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Brave Fencer Musashi Recompilation",
+      "repository": "alexbeavs-ps1-ports/brave-fencer-musashi-recomp",
+      "folderName": "BraveFencerMusashiRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Bushido Blade 2 Recompilation",
+      "repository": "alexbeavs-ps1-ports/bushido-blade-2-recomp",
+      "folderName": "BushidoBlade2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Colin McRae Rally 2.0 Recompilation",
+      "repository": "alexbeavs-ps1-ports/colin-mcrae-rally-2-0-recomp",
+      "folderName": "ColinMcRaeRally20Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Colin McRae Rally Recompilation",
+      "repository": "WeAnitTommyBruh/Colin-McRae-Rally-Recomp",
+      "folderName": "ColinMcRaeRallyRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Colony Wars Recompilation",
+      "repository": "alexbeavs-ps1-ports/colony-wars-recomp",
+      "folderName": "ColonyWarsRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Colony Wars: Red Sun Recompilation",
+      "repository": "Alexbeav/colony-wars-red-sun-recomp",
+      "folderName": "ColonyWarsRedSunRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Dance Dance Revolution 1st Mix Recompilation",
+      "repository": "bmbelo87/ddr-1st-recomp",
+      "folderName": "DanceDanceRevolution1stMixRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Dead or Alive Recompilation",
+      "repository": "3dge7161/Jiggle-or-Physics",
+      "folderName": "DeadorAliveRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Destruction Derby 2 Recompilation",
+      "repository": "alexbeavs-ps1-ports/destruction-derby-2-recomp",
+      "folderName": "DestructionDerby2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Destruction Derby Raw Recompilation",
+      "repository": "alexbeavs-ps1-ports/destruction-derby-raw-recomp",
+      "folderName": "DestructionDerbyRawRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Devil Dice Recompilation",
+      "repository": "alexbeavs-ps1-ports/devil-dice-recomp",
+      "folderName": "DevilDiceRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Die Hard Trilogy Recompilation",
+      "repository": "Alexbeav/die-hard-trilogy-recomp",
+      "folderName": "DieHardTrilogyRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Digimon World 2 Recompilation",
+      "repository": "alexbeavs-ps1-ports/digimon-world-2-recomp",
+      "folderName": "DigimonWorld2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Digimon World Recompilation",
+      "repository": "Ethan4love/Digimon-world-PSX-RECOMP",
+      "folderName": "DigimonWorldRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Disruptor Recompilation",
+      "repository": "micmea668/DisruptorRecomp",
+      "folderName": "DisruptorRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Dragon Ball GT Final Bout Recompilation",
+      "repository": "novapowers0/DB-Final-Bout-Recomp",
+      "folderName": "DragonBallGTFinalBoutRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Dragon Ball Z: Ultimate Battle 22 Recompilation",
+      "repository": "alexbeavs-ps1-ports/dragon-ball-z-ultimate-battle-22-recomp",
+      "folderName": "DragonBallZUltimateBattle22Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Driver Recompilation",
+      "repository": "alexbeavs-ps1-ports/driver-recomp",
+      "folderName": "DriverRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Duke Nukem: Land of the Babes Recompilation",
+      "repository": "alexbeavs-ps1-ports/duke-nukem-land-of-the-babes-recomp",
+      "folderName": "DukeNukemLandoftheBabesRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Duke Nukem: Time to Kill Recompilation",
+      "repository": "alexbeavs-ps1-ports/duke-nukem-time-to-kill-recomp",
+      "folderName": "DukeNukemTimetoKillRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Earthworm Jim 2 Recompilation",
+      "repository": "elprogramadorloco-arch/jim2-recomp",
+      "folderName": "EarthwormJim2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Fade to Black Recompilation",
+      "repository": "alexbeavs-ps1-ports/fade-to-black-recomp",
+      "folderName": "FadetoBlackRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Fear Effect 2: Retro Helix Recompilation",
+      "repository": "alexbeavs-ps1-ports/fear-effect-2-retro-helix-recomp",
+      "folderName": "FearEffect2RetroHelixRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Fear Effect Recompilation",
+      "repository": "alexbeavs-ps1-ports/fear-effect-recomp",
+      "folderName": "FearEffectRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Fighting Force Recompilation",
+      "repository": "alexbeavs-ps1-ports/fighting-force-recomp",
+      "folderName": "FightingForceRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Future Cop: L.A.P.D. Recompilation",
+      "repository": "alexbeavs-ps1-ports/future-cop-lapd-recomp",
+      "folderName": "FutureCopLAPDRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "G-Police Recompilation",
+      "repository": "alexbeavs-ps1-ports/g-police-recomp",
+      "folderName": "GPoliceRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "G-Police: Weapons of Justice Recompilation",
+      "repository": "alexbeavs-ps1-ports/g-police-weapons-of-justice-recomp",
+      "folderName": "GPoliceWeaponsofJusticeRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Galerians Recompilation",
+      "repository": "alexbeavs-ps1-ports/galerians-recomp",
+      "folderName": "GaleriansRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Ghost in the Shell Recompilation",
+      "repository": "alexbeavs-ps1-ports/ghost-in-the-shell-recomp",
+      "folderName": "GhostintheShellRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Gran Turismo 2 for Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR Recompilation",
+      "repository": "dubrovskiy-yevhen-stakelogic/gt-2-pc",
+      "folderName": "GranTurismo2forSteamDeckMacOSWindowsPCPCVRandQuest3Standalon",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Gran Turismo 2 With Multiplayer Recompilation",
+      "repository": "ianitsky/gt2-multiplayer",
+      "folderName": "GranTurismo2WithMultiplayerRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "In Cold Blood Recompilation",
+      "repository": "alexbeavs-ps1-ports/in-cold-blood-recomp",
+      "folderName": "InColdBloodRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Incredible Crisis Recompilation",
+      "repository": "alexbeavs-ps1-ports/incredible-crisis-recomp",
+      "folderName": "IncredibleCrisisRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Jade Cocoon: Story of the Tamamayu Recompilation",
+      "repository": "alexbeavs-ps1-ports/jade-cocoon-recomp",
+      "folderName": "JadeCocoonStoryoftheTamamayuRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Jet Moto Anthology Recompilation",
+      "repository": "GTTeancum/Jet-Moto-Anthology",
+      "folderName": "JetMotoAnthologyRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Kartia: The Word of Fate Recompilation",
+      "repository": "alexbeavs-ps1-ports/kartia-recomp",
+      "folderName": "KartiaTheWordofFateRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "King's Field Recompilation",
+      "repository": "Voicedrew11/verdite2",
+      "folderName": "KingsFieldRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "KoroKoro Post Nin Recompilation",
+      "repository": "elprogramadorloco-arch/korokoro-recomp",
+      "folderName": "KoroKoroPostNinRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Koudelka Recompilation",
+      "repository": "alexbeavs-ps1-ports/koudelka-recomp",
+      "folderName": "KoudelkaRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Kula World Recompilation",
+      "repository": "alexbeavs-ps1-ports/kula-world-recomp",
+      "folderName": "KulaWorldRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Legacy of Kain: Soul Reaver Recompilation",
+      "repository": "alexbeavs-ps1-ports/legacy-of-kain-soul-reaver-recomp",
+      "folderName": "LegacyofKainSoulReaverRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Martian Gothic Recompilation",
+      "repository": "alexbeavs-ps1-ports/martian-gothic-recomp",
+      "folderName": "MartianGothicRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "MDK Recompilation",
+      "repository": "alexbeavs-ps1-ports/mdk-recomp",
+      "folderName": "MDKRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "MediEvil Recompilation",
+      "repository": "alexbeavs-ps1-ports/medievil-recomp",
+      "folderName": "MediEvilRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "MediEvil Recompilation",
+      "repository": "BlackLabelHQ/MediEvilRecomp",
+      "folderName": "MediEvilRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Mega Man Legends 2 Recompilation",
+      "repository": "alexbeavs-ps1-ports/mega-man-legends-2-recomp",
+      "folderName": "MegaManLegends2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Mega Man Legends Recompilation",
+      "repository": "alexbeavs-ps1-ports/mega-man-legends-recomp",
+      "folderName": "MegaManLegendsRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Men in Black: The Game Recompilation",
+      "repository": "alexbeavs-ps1-ports/men-in-black-the-game-recomp",
+      "folderName": "MeninBlackTheGameRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Metal Slug X Recompilation",
+      "repository": "alexbeavs-ps1-ports/metal-slug-x-recomp",
+      "folderName": "MetalSlugXRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Monster Rancher 2 Recompilation",
+      "repository": "alexbeavs-ps1-ports/monster-rancher-2-recomp",
+      "folderName": "MonsterRancher2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Monster Rancher Recompilation",
+      "repository": "alexbeavs-ps1-ports/monster-rancher-recomp",
+      "folderName": "MonsterRancherRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Mortal Kombat 4 Recompilation",
+      "repository": "alexbeavs-ps1-ports/mortal-kombat-4-recomp",
+      "folderName": "MortalKombat4Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Mortal Kombat Trilogy Recompilation",
+      "repository": "alexbeavs-ps1-ports/mortal-kombat-trilogy-recomp",
+      "folderName": "MortalKombatTrilogyRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Nightmare Creatures 2 Recompilation",
+      "repository": "alexbeavs-ps1-ports/nightmare-creatures-ii-recomp",
+      "folderName": "NightmareCreatures2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Nightmare Creatures Recompilation",
+      "repository": "alexbeavs-ps1-ports/nightmare-creatures-recomp",
+      "folderName": "NightmareCreaturesRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Oddworld: Abe's Oddysee Recompilation",
+      "repository": "alexbeavs-ps1-ports/oddworld-abe-s-oddysee-recomp",
+      "folderName": "OddworldAbesOddyseeRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Parasite Eve Recompilation",
+      "repository": "alexbeavs-ps1-ports/parasite-eve-recomp",
+      "folderName": "ParasiteEveRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Pro Pinball: Timeshock! Recompilation",
+      "repository": "alexbeavs-ps1-ports/pro-pinball-timeshock-recomp",
+      "folderName": "ProPinballTimeshockRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Puyo Puyo Box Recompilation",
+      "repository": "kirby1237/PuyoPuyoBoxRecomp",
+      "folderName": "PuyoPuyoBoxRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Quake 2 Recompilation",
+      "repository": "alexbeavs-ps1-ports/quake-ii-recomp",
+      "folderName": "Quake2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "R-Type Delta Recompilation",
+      "repository": "alexbeavs-ps1-ports/r-type-delta-recomp",
+      "folderName": "RTypeDeltaRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Ridge Racer Recompilation",
+      "repository": "kazuyette/rr-decomp",
+      "folderName": "RidgeRacerRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Ridge Racer Type 4 Recompilation",
+      "repository": "omegakatana92/RidgeRacer4Recomp",
+      "folderName": "RidgeRacerType4Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Rival Schools: Evolution Recompilation",
+      "repository": "alexbeavs-ps1-ports/rival-schools-evolution-recomp",
+      "folderName": "RivalSchoolsEvolutionRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Rival Schools: United by Fate Recompilation",
+      "repository": "alexbeavs-ps1-ports/rival-schools-recomp",
+      "folderName": "RivalSchoolsUnitedbyFateRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Rollcage Stage 2 Recompilation",
+      "repository": "alexbeavs-ps1-ports/rollcage-stage-ii-recomp",
+      "folderName": "RollcageStage2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Samurai Shodown: Warriors Rage Recompilation",
+      "repository": "omegakatana92/Samuai-Shodown-Warriors-Rage-Recomp",
+      "folderName": "SamuraiShodownWarriorsRageRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Serial Experiments Lain Recompilation",
+      "repository": "Y0oshi/lain-psx-decompiled",
+      "folderName": "SerialExperimentsLainRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Shadow Tower Recompilation",
+      "repository": "JFryy/reshadowtower",
+      "folderName": "ShadowTowerRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Silent Bomber Recompilation",
+      "repository": "alexbeavs-ps1-ports/silent-bomber-recomp",
+      "folderName": "SilentBomberRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Soul Blade Recompilation",
+      "repository": "fabioap-cpu/SoulBlade_Recomp",
+      "folderName": "SoulBladeRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Spider Man and Spider Man 2: Enter Electro Recompilation",
+      "repository": "GTTeancum/OpenSpideyPS1",
+      "folderName": "SpiderManandSpiderMan2EnterElectroRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Star Wars Episode I: The Phantom Menace Recompilation",
+      "repository": "alexbeavs-ps1-ports/star-wars-episode-i-the-phantom-menace-recomp",
+      "folderName": "StarWarsEpisodeIThePhantomMenaceRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Syphon Filter 3 Recompilation",
+      "repository": "alexbeavs-ps1-ports/syphon-filter-3-recomp",
+      "folderName": "SyphonFilter3Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Tail Concerto Recompilation",
+      "repository": "alexbeavs-ps1-ports/tail-concerto-recomp",
+      "folderName": "TailConcertoRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Team Buddies Recompilation",
+      "repository": "alexbeavs-ps1-ports/team-buddies-recomp",
+      "folderName": "TeamBuddiesRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Tekken 3 Recompilation - 18 Tekken Tag Tournament Characters Expansion",
+      "repository": "omarma/tekken3-expanded",
+      "folderName": "Tekken3Recompilation18TekkenTagTournamentCharactersExpansion",
+      "appIconUrl": null,
+      "tags": [
+        "mod",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Tekken 3 With Jun Kazama Recompilation",
+      "repository": "FishB0nes98/Tekken3Recompiled",
+      "folderName": "Tekken3WithJunKazamaRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "The Fifth Element Recompilation",
+      "repository": "alexbeavs-ps1-ports/the-fifth-element-recomp",
+      "folderName": "TheFifthElementRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "The Lost World: Jurassic Park Special Edition Recompilation",
+      "repository": "alexbeavs-ps1-ports/the-lost-world-jurassic-park-special-edition-recomp",
+      "folderName": "TheLostWorldJurassicParkSpecialEditionRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "The Misadventures of Tron Bonne Recompilation",
+      "repository": "alexbeavs-ps1-ports/misadventures-of-tron-bonne-recomp",
+      "folderName": "TheMisadventuresofTronBonneRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "The Mummy Recompilation",
+      "repository": "alexbeavs-ps1-ports/the-mummy-recomp",
+      "folderName": "TheMummyRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Threads of Fate Recompilation",
+      "repository": "alexbeavs-ps1-ports/threads-of-fate-recomp",
+      "folderName": "ThreadsofFateRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Tokyo Highway Battle Recompilation",
+      "repository": "alexbeavs-ps1-ports/tokyo-highway-battle-recomp",
+      "folderName": "TokyoHighwayBattleRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Tony Hawk's Pro Skater 2 Recompilation",
+      "repository": "alexbeavs-ps1-ports/tony-hawk-s-pro-skater-2-recomp",
+      "folderName": "TonyHawksProSkater2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Tony Hawk's Pro Skater 3 Recompilation",
+      "repository": "alexbeavs-ps1-ports/tony-hawk-s-pro-skater-3-recomp",
+      "folderName": "TonyHawksProSkater3Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Tony Hawk's Pro Skater 4 Recompilation",
+      "repository": "alexbeavs-ps1-ports/tony-hawk-s-pro-skater-4-recomp",
+      "folderName": "TonyHawksProSkater4Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Tony Hawk's Pro Skater Recompilation",
+      "repository": "alexbeavs-ps1-ports/tony-hawk-s-pro-skater-recomp",
+      "folderName": "TonyHawksProSkaterRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Toy Story 2 - Buzz Lightyear to the Rescue Recompilation",
+      "repository": "PeriBluGaming/ToyStory2Recomp",
+      "folderName": "ToyStory2BuzzLightyeartotheRescueRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Vampire Hunter D Recompilation",
+      "repository": "alexbeavs-ps1-ports/vampire-hunter-d-recomp",
+      "folderName": "VampireHunterDRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Vib Ribbon Recompilation",
+      "repository": "alexbeavs-ps1-ports/vib-ribbon-recomp",
+      "folderName": "VibRibbonRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Vigilante 8 and Vigilante 8: 2nd Offense Recompilation",
+      "repository": "GTTeancum/Vigilante-8-recomp",
+      "folderName": "Vigilante8andVigilante82ndOffenseRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Wild Arms Recompilation",
+      "repository": "alexbeavs-ps1-ports/wild-arms-recomp",
+      "folderName": "WildArmsRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Wipeout Recompilation",
+      "repository": "alexbeavs-ps1-ports/wipeout-recomp",
+      "folderName": "WipeoutRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Wipeout XL Recompilation",
+      "repository": "alexbeavs-ps1-ports/wipeout-xl-recomp",
+      "folderName": "WipeoutXLRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Xena: Warrior Princess Recompilation",
+      "repository": "alexbeavs-ps1-ports/xena-warrior-princess-recomp",
+      "folderName": "XenaWarriorPrincessRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Amplitude Recompilation",
+      "repository": "ztpeditor/project-amp",
+      "folderName": "AmplitudeRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "ps2",
+        "playstation 2"
+      ],
+      "repositorySource": "gitlab"
+    },
+    {
+      "name": "Dark Cloud 2 Recompilation",
+      "repository": "Red-tv141/DC2-PS2RECOMP",
+      "folderName": "DarkCloud2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "ps2",
+        "playstation 2"
+      ]
+    },
+    {
+      "name": "OpenGoal - Jak & Daxter, Jak 2 and Jak 3 Native PC Ports",
+      "repository": "open-goal/jak-project",
+      "folderName": "OpenGoalJakDaxterJak2andJak3NativePCPorts",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "ps2",
+        "playstation 2"
+      ]
+    },
+    {
+      "name": "Ridge Racer v Recompilation",
+      "repository": "danisandoval/fukami",
+      "folderName": "RidgeRacervRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "ps2",
+        "playstation 2"
+      ]
+    },
+    {
+      "name": "Bloodborne Port",
+      "repository": "deadinside28/bloodborne_pc",
+      "folderName": "BloodbornePort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "ps4",
+        "playstation 4"
+      ]
+    },
+    {
+      "name": "Dead Cells PC Port",
+      "repository": "OverkillLabs/DeadCells-PS5-Native",
+      "folderName": "DeadCellsPCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "ps5",
+        "playstation 5"
+      ]
+    },
+    {
+      "name": "God of War: Sons of Sparta Recompilation",
+      "repository": "OverkillLabs3/SoS-PS5",
+      "folderName": "GodofWarSonsofSpartaRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "ps5",
+        "playstation 5"
+      ]
+    },
+    {
+      "name": "Crash Team Racing PC Port",
+      "repository": "Rinnegatamante/Crash-Team-Racing-High-Octane",
+      "folderName": "CrashTeamRacingPCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "vita",
+        "ps vita"
+      ]
+    },
+    {
+      "name": "Fate Unlimited Codes Recompilation",
+      "repository": "elprogramadorloco-arch/fuc-recomp",
+      "folderName": "FateUnlimitedCodesRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psp",
+        "psp"
+      ]
+    },
+    {
+      "name": "GTA: Liberty City Stories Recompilation",
+      "repository": "elmasas/lcs-recomp",
+      "folderName": "GTALibertyCityStoriesRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psp",
+        "psp"
+      ]
+    },
+    {
+      "name": "GTA: Vice City Stories Recompilation",
+      "repository": "jessicanataliagta/PSPRecomp",
+      "folderName": "GTAViceCityStoriesRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psp",
+        "psp"
+      ]
+    },
+    {
+      "name": "MotorStorm Arctic Edge Recompilation",
+      "repository": "coole42-pixel/PSPRecomp-MSAE",
+      "folderName": "MotorStormArcticEdgeRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "psp",
+        "psp"
+      ]
+    },
+    {
+      "name": "Knuckles' Chaotix Recompilation",
+      "repository": "YuutaTsubasa/ChaotixRecompiled",
+      "folderName": "KnucklesChaotixRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "32x",
+        "sega 32x"
+      ]
+    },
+    {
+      "name": "Virtua Racing Recompilation",
+      "repository": "matiaszanolli/sega-vr-disasm",
+      "folderName": "VirtuaRacingRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "32x",
+        "sega 32x"
+      ]
+    },
+    {
+      "name": "Space Channel 5 Recompilation",
+      "repository": "ZoomiesZaggy/Space-Channel-5",
+      "folderName": "SpaceChannel5Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "dreamcast",
+        "sega dreamcast"
+      ]
+    },
+    {
+      "name": "Sonic the Hedgehog (2013) and Sonic the Hedgehog 2 (2013) Decompilation",
+      "repository": "RSDKModding/RSDKv4-Decompilation",
+      "folderName": "SonictheHedgehog2013andSonictheHedgehog22013Decompilation",
+      "appIconUrl": null,
+      "tags": [
+        "decomp",
+        "genesis",
+        "sega megadrive"
+      ]
+    },
+    {
+      "name": "Tiny Toon Adventures: Buster's Hidden Treasure PC Port",
+      "repository": "Darhkfox/busters-hidden-treasure-pc",
+      "folderName": "TinyToonAdventuresBustersHiddenTreasurePCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "genesis",
+        "sega megadrive"
+      ]
+    },
+    {
+      "name": "ActRaiser Recompilation",
+      "repository": "DerrickGold/ar-recomp",
+      "folderName": "ActRaiserRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "EarthBound PC Port",
+      "repository": "TheRunaway5/Phase-Distorter",
+      "folderName": "EarthBoundPCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "F-Zero Recompilation",
+      "repository": "craigshaw/FZeroRecomp",
+      "folderName": "FZeroRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "International Superstar Soccer Deluxe Recompilation",
+      "repository": "sergiomanzur/issd-native",
+      "folderName": "InternationalSuperstarSoccerDeluxeRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "Jungle Strike Recompilation",
+      "repository": "Junior-Jones/Jungle-Strike-SNES-Static-Recomp",
+      "folderName": "JungleStrikeRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "Lufia 2 Recompilation",
+      "repository": "Cellenseres/Lufia2SNESRecomp",
+      "folderName": "Lufia2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "Star Fox Enhanced PC Port",
+      "repository": "kandowontu2/starfox-enhanced",
+      "folderName": "StarFoxEnhancedPCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "The Legend of Zelda a Link to the Past Decompilation",
+      "repository": "snesrev/zelda3",
+      "folderName": "TheLegendofZeldaaLinktothePastDecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "decomp",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "The Legend of Zelda: A Link to the Past Recompilation",
+      "repository": "mstan/ZeldaAlttPSNESRecomp",
+      "folderName": "TheLegendofZeldaALinktothePastRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "Tiny Toon Adventures: Buster Busts Loose! Recompilation",
+      "repository": "Darhkfox/BusterBustsLoose",
+      "folderName": "TinyToonAdventuresBusterBustsLooseRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "Zombies Ate My Neighbors PC Port",
+      "repository": "moshferatu/zombies-ate-my-neighbors-pc-port",
+      "folderName": "ZombiesAteMyNeighborsPCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "Mario Tennis Recompilation",
+      "repository": "mstan/MarioTennisVirtualBoyRecomp",
+      "folderName": "MarioTennisRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "vb",
+        "virtual boy"
+      ]
+    },
+    {
+      "name": "SD Gundam: Dimension War Recompilation",
+      "repository": "mstan/SDGundamDimensionWarVirtualBoyRecomp",
+      "folderName": "SDGundamDimensionWarRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "vb",
+        "virtual boy"
+      ]
+    },
+    {
+      "name": "Mario Strikers Charged Recompilation",
+      "repository": "BlackAndBlue95/Strikers-WiiCompiled",
+      "folderName": "MarioStrikersChargedRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "wii",
+        "wii"
+      ]
+    },
+    {
+      "name": "The Legend of Zelda the Wind Waker HD Recompilation",
+      "repository": "ZeldaWWHDRecomp/ZeldaWWHDRecomp",
+      "folderName": "TheLegendofZeldatheWindWakerHDRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "wiiu",
+        "wii u"
+      ]
+    },
+    {
+      "name": "Alone in the Dark Rehaunted Recompilation",
+      "repository": "spacefarergames/AloneInTheDarkReHaunted",
+      "folderName": "AloneintheDarkRehauntedRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Crimsonland Recompilation",
+      "repository": "banteg/crimson",
+      "folderName": "CrimsonlandRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Dreams to Reality Recompilation",
+      "repository": "jlagedo/dreams-to-reality-re",
+      "folderName": "DreamstoRealityRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Ecstatica 1 and 2 Recompilation",
+      "repository": "spacefarergames/EcstaticaRecompiled",
+      "folderName": "Ecstatica1and2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Resident Evil Recompilation",
+      "repository": "ecruells/resident-evil-pc-decomp",
+      "folderName": "ResidentEvilRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Sheep, Dog 'N' Wolf Recompilation",
+      "repository": "SheepStealer2001/sdw-decomp",
+      "folderName": "SheepDogNWolfRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Sim Copter Reimplementation",
+      "repository": "JamesIV4/sim-copter-remake",
+      "folderName": "SimCopterReimplementation",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Sim Tower Port",
+      "repository": "kandowontu/simtower-native-windows-port",
+      "folderName": "SimTowerPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Sonic Mania Decompilation",
+      "repository": "RSDKModding/Sonic-Mania-Decompilation",
+      "folderName": "SonicManiaDecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "decomp",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Star Wars: X-Wing Reimplementation",
+      "repository": "elyosh/OpenXW",
+      "folderName": "StarWarsXWingReimplementation",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Star Wars: X-Wing vs. TIE Fighter Recompilation",
+      "repository": "elyosh/OpenXvT",
+      "folderName": "StarWarsXWingvsTIEFighterRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Test Drive PC Port",
+      "repository": "kylofon/testdrive-enhanced",
+      "folderName": "TestDrivePCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Woody Woodpecker: Escape From Buzz Buzzard Park Recompilation",
+      "repository": "jjmhalew/WoodyRE",
+      "folderName": "WoodyWoodpeckerEscapeFromBuzzBuzzardParkRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Buffy the Vampire Slayer: Chaos Bleeds Recompilation",
+      "repository": "KaikoClanworth1/buffy-chaos-bleeds-pc",
+      "folderName": "BuffytheVampireSlayerChaosBleedsRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "xbox",
+        "xbox"
+      ]
+    },
+    {
+      "name": "Dead or Alive Xtreme Beach Volleyball Recompilation",
+      "repository": "NoRain211/doaxbv-re",
+      "folderName": "DeadorAliveXtremeBeachVolleyballRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "xbox",
+        "xbox"
+      ]
+    },
+    {
+      "name": "ESPN NFL 2K5 Native PC Port",
+      "repository": "BeyondTomrrow/2K5Remade",
+      "folderName": "ESPNNFL2K5NativePCPort",
+      "appIconUrl": null,
+      "tags": [
+        "port",
+        "xbox",
+        "xbox"
+      ]
+    },
+    {
+      "name": "Halo: Combat Evolved Recompilation",
+      "repository": "cybersecurity/halo-ce-universal",
+      "folderName": "HaloCombatEvolvedRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "xbox",
+        "xbox"
+      ]
+    },
+    {
+      "name": "Spider-Man 2 Recompilation",
+      "repository": "SirSymo/SM2-Recomp",
+      "folderName": "SpiderMan2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "xbox",
+        "xbox"
+      ]
+    },
+    {
+      "name": "SSX Tricky Recompilation",
+      "repository": "GiZcesi/OpenTricky",
+      "folderName": "SSXTrickyRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "xbox",
+        "xbox"
+      ]
+    },
+    {
+      "name": "Call of Duty: Modern Warfare 2 Recompilation",
+      "repository": "PaulCombal/mw2-recompiled",
+      "folderName": "CallofDutyModernWarfare2Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Crash of the Titans Recompilation",
+      "repository": "OAleex/MojoRecomp",
+      "folderName": "CrashoftheTitansRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Daytona USA Recompilation",
+      "repository": "Subarasheese/daytona-xbla-recomp",
+      "folderName": "DaytonaUSARecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Diablo 3 Xbox 360 Recompilation",
+      "repository": "Boron853/Souls-of-the-Reaper",
+      "folderName": "Diablo3Xbox360Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Dodonpachi Saidaioujou Recompilation",
+      "repository": "eandis/SDOJ-Recomp",
+      "folderName": "DodonpachiSaidaioujouRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Dragon Ball Z: Burst Limit Recompilation",
+      "repository": "iExplosiveRage/DBZ-Burst-Limit-Recompiled",
+      "folderName": "DragonBallZBurstLimitRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "FIFA Street Recompilation",
+      "repository": "samuelitodavila-group/fifa-street-pc",
+      "folderName": "FIFAStreetRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ],
+      "repositorySource": "gitlab"
+    },
+    {
+      "name": "Forza Horizon Recompilation",
+      "repository": "arcanite24/pinyon-shift",
+      "folderName": "ForzaHorizonRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Forza Motorsport 4 Recompilation",
+      "repository": "Alexbeav/fm4-recomp",
+      "folderName": "ForzaMotorsport4Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Gears of War: Judgment Recompilation",
+      "repository": "OverkillLabs2/gears-judgment-recomp",
+      "folderName": "GearsofWarJudgmentRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Infinite Undiscovery Recompilation",
+      "repository": "doc-haz/infinite-undiscovery-recomp",
+      "folderName": "InfiniteUndiscoveryRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Lollipop Chainsaw Recompilation",
+      "repository": "MaxDeadBear/Re-Cherry",
+      "folderName": "LollipopChainsawRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Metal Slug XX Recompilation",
+      "repository": "FluffyQuack/rexglue-MetalSlugXX",
+      "folderName": "MetalSlugXXRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Mortal Kombat vs. DC Universe Recompilation",
+      "repository": "KawaiiBunga/MKVDCU-Recomp",
+      "folderName": "MortalKombatvsDCUniverseRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Naruto: Rise of a Ninja Recompilation",
+      "repository": "jorjbarbosa/naruto-rise-recomp",
+      "folderName": "NarutoRiseofaNinjaRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "NBA JAM: On Fire Edition Recompilation",
+      "repository": "GTTeancum/OpenJam",
+      "folderName": "NBAJAMOnFireEditionRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Need for Speed: Most Wanted Recompilation",
+      "repository": "madelrandel-blip/NFSMW-Recompiled",
+      "folderName": "NeedforSpeedMostWantedRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "NocturneRecomp - Castlevania Symphony of the Night XBLA Recompilation",
+      "repository": "birabittoh/NocturneRecomp",
+      "folderName": "NocturneRecompCastlevaniaSymphonyoftheNightXBLARecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Outpost Kaloki X Recompilation",
+      "repository": "TekRantGaming/outpost-kaloki-x-recompiled",
+      "folderName": "OutpostKalokiXRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Perfect Dark Xbox 360 Recompilation",
+      "repository": "nikolaygorb/PerfectDarkRemasterRecomp",
+      "folderName": "PerfectDarkXbox360Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Peter Jackson's King Kong Recompilation",
+      "repository": "TekRantGaming/king-kong-recompiled",
+      "folderName": "PeterJacksonsKingKongRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Rayman Origins Recompilation",
+      "repository": "BelmanteGu/RaymanOriginsRecomp",
+      "folderName": "RaymanOriginsRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Real Steel Recompilation",
+      "repository": "thefixinhixon/RealSteelRecomp",
+      "folderName": "RealSteelRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Saints Row Recompilation",
+      "repository": "whompay/SaintsReborn",
+      "folderName": "SaintsRowRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Skate 3 Recompilation 1",
+      "repository": "portingpete/skate3-recomp",
+      "folderName": "Skate3Recompilation1",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Sonic Free Riders Recompilation",
+      "repository": "YuutaTsubasa/Free-Riders-Recompiled",
+      "folderName": "SonicFreeRidersRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Sonic the Fighters Recompilation",
+      "repository": "SparkosTheWolf/FightersRecomp",
+      "folderName": "SonictheFightersRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Sonic the Hedgehog 2006 Recompilation",
+      "repository": "sonicnext-dev/MarathonRecomp",
+      "folderName": "SonictheHedgehog2006Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Spider-Man: Edge of Time Recompilation 2",
+      "repository": "goliathret/EdgeOfTimeRecomp",
+      "folderName": "SpiderManEdgeofTimeRecompilation2",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Splatterhouse 2010 Recompilation",
+      "repository": "0c0de/splatterhouse-decomp",
+      "folderName": "Splatterhouse2010Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Splosion Man Recompilation",
+      "repository": "thefixinhixon/SplosionManRecomp",
+      "folderName": "SplosionManRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Street Fighter 3: 3rd Strike Online Edition Recompilation",
+      "repository": "updeshxp/SF3TSOEReborn",
+      "folderName": "StreetFighter33rdStrikeOnlineEditionRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "The Darkness Recompilation",
+      "repository": "portingpete/The-Darkness-Recomp",
+      "folderName": "TheDarknessRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Viva Pinata Recompilation",
+      "repository": "crabinacrabic/VivaPinataRecomp",
+      "folderName": "VivaPinataRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "WET Recompilation",
+      "repository": "Supermedo/wet-recomp",
+      "folderName": "WETRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "WWE '13 Recompilation",
+      "repository": "PromethenDev/wwe13-recomp",
+      "folderName": "WWE13Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "WWE SmackDown vs. Raw 2011 Recompilation",
+      "repository": "shaneomac1337/SVR2011-Recomp",
+      "folderName": "WWESmackDownvsRaw2011Recompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    }
+  ]
+}
