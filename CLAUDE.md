@@ -9,7 +9,8 @@ Dan prefers work broken into small steps.
 - `lists/GamingEmporiumExtras.json` – a hand-built seed list (202 apps), already working as a local list in Quiver.
 - `scripts/build_list.py` – scraper. **Only tested against a made-up HTML sample**, never the live site
   (the previous sandbox was blocked from reaching thegamingemporium.com).
-- `.github/workflows/update-list.yml` – daily GitHub Action that runs the script and commits changes.
+- `.github/workflows/update-list.yml` – GitHub Action, now manual-only (see below).
+- `scripts/sync.cmd` – the daily local sync (pull, build, commit and push if changed).
 
 ## Live site findings (2026-10-06)
 - Static HTML (not WordPress; `/wp-json/` 404s). All 487 cards are on one page – no pagination
@@ -20,7 +21,10 @@ Dan prefers work broken into small steps.
 - 434 distinct GitHub/GitLab repos on the page; all 202 seed-list repos are among them.
 
 ## First jobs
-Jobs 1–4 done (see above). 2026-10-06: list written as v1.0.2, 262 apps (+60, none lost). Mods are tagged `mod` (title contains the word "mod" or "expansion") and `mod` is a preferred filter. Next: job 5.
+Jobs 1–4 done (see above). 2026-10-06: list written as v1.0.2, 262 apps (+60, none lost). Mods are tagged `mod` (title contains the word "mod" or "expansion") and `mod` is a preferred filter. Job 5 done: repo is https://github.com/R3ckless-Abandon/quiver-emporium-list (public).
+The site returns 403 to GitHub's runners, so the daily sync runs on Dan's PC instead: Task Scheduler task
+"Quiver Emporium list sync" runs `scripts/sync.cmd` at 09:00 (catches up if the PC was off), output in `sync.log`.
+The GitHub Action is manual-only now. Don't route around the block (proxies/VPS); asking the site owner is the alternative.
 1. Fetch the live page and check the real HTML structure. Each card has a title link to the repo,
    a category link ("Decompilations & Recompilations<genre>") to the same repo, and a "Platform<name>" label.
    Note: in copied text the "Platform" label appears *before* the card it belongs to – confirm which card
