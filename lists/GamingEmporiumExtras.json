@@ -1,7 +1,7 @@
 {
   "name": "Gaming Emporium Extras",
   "description": "Ports and recomps from The Gaming Emporium not in the official Quiver lists",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "iconUrl": null,
   "preferredTagFilters": [
     "recomp",
@@ -38,6 +38,7 @@
     "ipod",
     "nes",
     "nintendo 64",
+    "nintendo switch",
     "playstation",
     "playstation 2",
     "playstation 4",
@@ -145,6 +146,18 @@
       ]
     },
     {
+      "name": "Guimo Recompilation",
+      "repository": "greyxor/openguimo",
+      "folderName": "GuimoRecompilation",
+      "appIconUrl": null,
+      "tags": [
+        "recomp",
+        "dos",
+        "dos"
+      ],
+      "repositorySource": "gitlab"
+    },
+    {
       "name": "Street Rod Recompilation",
       "repository": "kylofon/streetrod-enhanced",
       "folderName": "StreetRodRecompilation",
@@ -219,6 +232,17 @@
         "recomp",
         "gb",
         "game boy"
+      ]
+    },
+    {
+      "name": "Fire Emblem: The Sacred Stones Recompilation",
+      "repository": "Lordingard/SacredStonesRecomp",
+      "folderName": "FireEmblemTheSacredStonesRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/56577889b3c1cd083b6d7b32d32f99d5.png",
+      "tags": [
+        "recomp",
+        "gba",
+        "game boy advance"
       ]
     },
     {
@@ -332,12 +356,34 @@
       ]
     },
     {
+      "name": "The Legend of Zelda Oracle of Ages and Oracle of Seasons Recompilation",
+      "repository": "kirby-letsgo/oracles-decomp",
+      "folderName": "TheLegendofZeldaOracleofAgesandOracleofSeasonsRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/61d77652c97ef636343742fc3dcf3ba9.png",
+      "tags": [
+        "recomp",
+        "gbc",
+        "game boy colour"
+      ]
+    },
+    {
       "name": "Mario Party 4 PC Port",
       "repository": "zeranemesis/Marioparty4",
       "folderName": "MarioParty4PCPort",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/3e60e09c222f206c725385f53d7e567c.png",
       "tags": [
         "port",
+        "gcn",
+        "gamecube"
+      ]
+    },
+    {
+      "name": "Metroid Prime Recompilation",
+      "repository": "Odrannnn/MetroidPrimePort",
+      "folderName": "MetroidPrimeRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/a8573e231edaaedfb49ebfc14f4be808/32/256x256.png",
+      "tags": [
+        "recomp",
         "gcn",
         "gamecube"
       ]
@@ -629,6 +675,17 @@
       ]
     },
     {
+      "name": "Glover Recompilation",
+      "repository": "ThatGuyMcd/Glover-R",
+      "folderName": "GloverRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/901797aebf0b23ecbab534d61ad33bb1.png",
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
       "name": "Golden Balloon - Diddy Kong Racing Recompilation",
       "repository": "akratch/golden-balloon",
       "folderName": "GoldenBalloonDiddyKongRacingRecompilation",
@@ -794,6 +851,28 @@
       ]
     },
     {
+      "name": "WWF No Mercy Recompilation 2",
+      "repository": "Gadge64/WWFNoMercyRecomp",
+      "folderName": "WWFNoMercyRecompilation2",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/991d70959133735c15f5ae628fa08d55.png",
+      "tags": [
+        "recomp",
+        "n64",
+        "nintendo 64"
+      ]
+    },
+    {
+      "name": "Tomodachi Life: Living the Dream Recompilation",
+      "repository": "RussoPhone/tomodachi-ltd-recomp",
+      "folderName": "TomodachiLifeLivingtheDreamRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6fb873663decc4adb2916aadc68c31fe.png",
+      "tags": [
+        "recomp",
+        "other",
+        "nintendo switch"
+      ]
+    },
+    {
       "name": "Ace Combat 3 Electrosphere Recompilation",
       "repository": "alexbeavs-ps1-ports/ace-combat-3-electrosphere-usa-recomp",
       "folderName": "AceCombat3ElectrosphereRecompilation",
@@ -926,6 +1005,17 @@
       ]
     },
     {
+      "name": "Castlevania Chronicles Recompilation",
+      "repository": "Spicywonda/castlevania-chronicles-recomp",
+      "folderName": "CastlevaniaChroniclesRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/1164caada87d881437173e9a15f78aa5/32/96x96.png",
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
       "name": "Colin McRae Rally 2.0 Recompilation",
       "repository": "alexbeavs-ps1-ports/colin-mcrae-rally-2-0-recomp",
       "folderName": "ColinMcRaeRally20Recompilation",
@@ -1049,6 +1139,17 @@
     {
       "name": "Digimon World Recompilation",
       "repository": "Ethan4love/Digimon-world-PSX-RECOMP",
+      "folderName": "DigimonWorldRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/08931d765d99d3e849c9674cc289baf7.png",
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "Digimon World Recompilation",
+      "repository": "gascarcella/dw2003recomp",
       "folderName": "DigimonWorldRecompilation",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/08931d765d99d3e849c9674cc289baf7.png",
       "tags": [
@@ -1306,6 +1407,17 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7b70922c241d472a0c2124a71b2d36cc.png",
       "tags": [
         "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "King's Field 2 PC Port",
+      "repository": "Voicedrew11/verdite3",
+      "folderName": "KingsField2PCPort",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/0e64f71694834319bae66632acaff99a/32/512x512.png",
+      "tags": [
+        "port",
         "psx",
         "playstation"
       ]
@@ -1762,6 +1874,17 @@
       ]
     },
     {
+      "name": "Tekken 3 Remake Built on the Godot Engine",
+      "repository": "n0madic/Tekken3Remake",
+      "folderName": "Tekken3RemakeBuiltontheGodotEngine",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/c16fcce846042d65044d795b4b7a16e3/32/256x256.png",
+      "tags": [
+        "port",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
       "name": "Tekken 3 With Jun Kazama Recompilation",
       "repository": "FishB0nes98/Tekken3Recompiled",
       "folderName": "Tekken3WithJunKazamaRecompilation",
@@ -1810,6 +1933,17 @@
       "repository": "alexbeavs-ps1-ports/the-mummy-recomp",
       "folderName": "TheMummyRecompilation",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/76eac68b8d2923713428270133e03d3f.png",
+      "tags": [
+        "recomp",
+        "psx",
+        "playstation"
+      ]
+    },
+    {
+      "name": "The Simpsons Wrestling Recompilation",
+      "repository": "TekRantGaming/simpsons-wrestling-recompiled",
+      "folderName": "TheSimpsonsWrestlingRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/2d680487650d66445b50d3d759eccad4/32/512x512.png",
       "tags": [
         "recomp",
         "psx",
@@ -1994,6 +2128,39 @@
       ]
     },
     {
+      "name": "Dragon Ball Z: Budokai Tenkaichi 3 PC Port",
+      "repository": "z3xox/Tenkaichi3Decomp",
+      "folderName": "DragonBallZBudokaiTenkaichi3PCPort",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/be774f2a5ef55482596487bf9bdfbd76.png",
+      "tags": [
+        "port",
+        "ps2",
+        "playstation 2"
+      ]
+    },
+    {
+      "name": "Dragon Quest 8 Recompilation",
+      "repository": "Sinan-Karakaya/DQ8-Recompiled",
+      "folderName": "DragonQuest8Recompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/fb4ab556bc42d6f0ee0f9e24ec4d1af0.png",
+      "tags": [
+        "recomp",
+        "ps2",
+        "playstation 2"
+      ]
+    },
+    {
+      "name": "ICO Recompilation",
+      "repository": "nathanialf/ico-pc",
+      "folderName": "ICORecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/0126af625c72ec0fd0a0b834308d3082.png",
+      "tags": [
+        "recomp",
+        "ps2",
+        "playstation 2"
+      ]
+    },
+    {
       "name": "OpenGoal - Jak & Daxter, Jak 2 and Jak 3 Native PC Ports",
       "repository": "open-goal/jak-project",
       "folderName": "OpenGoalJakDaxterJak2andJak3NativePCPorts",
@@ -2016,10 +2183,43 @@
       ]
     },
     {
-      "name": "Bloodborne Port",
+      "name": "Road Trip Recompilation",
+      "repository": "silentsudin/RoadTripAdventure-recomp",
+      "folderName": "RoadTripRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/e191ccb5c13fceecfb742365738796a1.jpg",
+      "tags": [
+        "recomp",
+        "ps2",
+        "playstation 2"
+      ]
+    },
+    {
+      "name": "Bloodborne - BBPort - PC Port",
       "repository": "deadinside28/bloodborne_pc",
-      "folderName": "BloodbornePort",
+      "folderName": "BloodborneBBPortPCPort",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/b0b14130d4056e057f7234fc60a8bd58.png",
+      "tags": [
+        "port",
+        "ps4",
+        "playstation 4"
+      ]
+    },
+    {
+      "name": "Bloodborne the Hunters Dream PC Port",
+      "repository": "droogie/bbhost",
+      "folderName": "BloodbornetheHuntersDreamPCPort",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/b0b14130d4056e057f7234fc60a8bd58.png",
+      "tags": [
+        "port",
+        "ps4",
+        "playstation 4"
+      ]
+    },
+    {
+      "name": "P.T. Native PC Port",
+      "repository": "LoreanXavier/pt-pc",
+      "folderName": "PTNativePCPort",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/d095e9553703cc6e3d058c3b70e8e6ce/32/256x256.png",
       "tags": [
         "port",
         "ps4",
@@ -2126,6 +2326,17 @@
       ]
     },
     {
+      "name": "Sonic Adventure Recompilation",
+      "repository": "sonicfreak1337/SARecomp",
+      "folderName": "SonicAdventureRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/73618455b2f727ad8fe055241b6b06bd/32/512x512.png",
+      "tags": [
+        "recomp",
+        "dreamcast",
+        "sega dreamcast"
+      ]
+    },
+    {
       "name": "Space Channel 5 Recompilation",
       "repository": "ZoomiesZaggy/Space-Channel-5",
       "folderName": "SpaceChannel5Recompilation",
@@ -2134,6 +2345,17 @@
         "recomp",
         "dreamcast",
         "sega dreamcast"
+      ]
+    },
+    {
+      "name": "Mutant League Hockey Recompilation",
+      "repository": "scheeseman486/mightyweenie",
+      "folderName": "MutantLeagueHockeyRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/8a62933a98429348f2a09bbbb8b2ea3e.png",
+      "tags": [
+        "recomp",
+        "genesis",
+        "sega megadrive"
       ]
     },
     {
@@ -2165,6 +2387,17 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/4b883095e08b1ca499906af10f0eea3e/32/256x256.png",
       "tags": [
         "recomp",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "EarthBound Companion - MaternalBound Redux",
+      "repository": "rages4calm/earthbound-companion",
+      "folderName": "EarthBoundCompanionMaternalBoundRedux",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/3cf166c6b73f030b4f67eeaeba301103.png",
+      "tags": [
+        "port",
         "snes",
         "snes"
       ]
@@ -2229,6 +2462,17 @@
       "repository": "kandowontu2/starfox-enhanced",
       "folderName": "StarFoxEnhancedPCPort",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6c19e0a6da12dc02239312f151072ddd.png",
+      "tags": [
+        "port",
+        "snes",
+        "snes"
+      ]
+    },
+    {
+      "name": "The Legend of Zelda a Link to the Past Companion PC Port",
+      "repository": "rages4calm/zelda-companion",
+      "folderName": "TheLegendofZeldaaLinktothePastCompanionPCPort",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/61f7b92a1aa7a88d4cee7dff7d98e7f0.png",
       "tags": [
         "port",
         "snes",
@@ -2313,6 +2557,17 @@
       ]
     },
     {
+      "name": "Muscle March Recompilation",
+      "repository": "tmcleroy/muscle-march-recomp",
+      "folderName": "MuscleMarchRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a9b619275b593d7ad6cd2df7da76d397.png",
+      "tags": [
+        "recomp",
+        "wii",
+        "wii"
+      ]
+    },
+    {
       "name": "The Legend of Zelda the Wind Waker HD Recompilation",
       "repository": "ZeldaWWHDRecomp/ZeldaWWHDRecomp",
       "folderName": "TheLegendofZeldatheWindWakerHDRecompilation",
@@ -2350,6 +2605,17 @@
       "repository": "jlagedo/dreams-to-reality-re",
       "folderName": "DreamstoRealityRecompilation",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/03216ae930a5a5a9962a823c448e1d29.jpg",
+      "tags": [
+        "recomp",
+        "pc",
+        "windows"
+      ]
+    },
+    {
+      "name": "Earthsiege 2 Recompilation",
+      "repository": "kevinfoley/Herculan",
+      "folderName": "Earthsiege2Recompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/d40e0a2a2f466a90ee2630fc925e7af9/4/32x32.png",
       "tags": [
         "recomp",
         "pc",
@@ -2456,6 +2722,17 @@
       ]
     },
     {
+      "name": "Titanic: Adventure Out of Time Port",
+      "repository": "itskenny0/titanic-godot",
+      "folderName": "TitanicAdventureOutofTimePort",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/08f38e0434442128fab5ead6217ca759/32/64x64.png",
+      "tags": [
+        "port",
+        "pc",
+        "windows"
+      ]
+    },
+    {
       "name": "Woody Woodpecker: Escape From Buzz Buzzard Park Recompilation",
       "repository": "jjmhalew/WoodyRE",
       "folderName": "WoodyWoodpeckerEscapeFromBuzzBuzzardParkRecompilation",
@@ -2533,6 +2810,17 @@
       ]
     },
     {
+      "name": "Burnout CRASH Recompilation",
+      "repository": "mpkonmbk/burnout-crash-recomp",
+      "folderName": "BurnoutCRASHRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a287bac704d11e7045a364b9398f0ff5.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
       "name": "Call of Duty: Modern Warfare 2 Recompilation",
       "repository": "PaulCombal/mw2-recompiled",
       "folderName": "CallofDutyModernWarfare2Recompilation",
@@ -2599,6 +2887,17 @@
       ]
     },
     {
+      "name": "Earthworm Jim HD Recompilation",
+      "repository": "TekRantGaming/earthworm-jim-hd-recompiled",
+      "folderName": "EarthwormJimHDRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/86ecfcbc1e9f1ae5ee2d71910877da36.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
       "name": "FIFA Street Recompilation",
       "repository": "samuelitodavila-group/fifa-street-pc",
       "folderName": "FIFAStreetRecompilation",
@@ -2609,6 +2908,17 @@
         "xbox 360"
       ],
       "repositorySource": "gitlab"
+    },
+    {
+      "name": "Fight Night Champion Recompilation",
+      "repository": "whompay/FNCReborn",
+      "folderName": "FightNightChampionRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/b9754d094b6c9d34a3abe699fd3b258c/32/256x256.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
     },
     {
       "name": "Forza Horizon Recompilation",
@@ -2780,6 +3090,17 @@
       "repository": "thefixinhixon/RealSteelRecomp",
       "folderName": "RealSteelRecompilation",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/710eec06bc39ec7c6bd28ddf5f3a5668/32/64x64.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "xbox 360"
+      ]
+    },
+    {
+      "name": "Ridge Racer 6 Recompilation",
+      "repository": "Sirhalo23/RidgeRacer6-Recompilation",
+      "folderName": "RidgeRacer6Recompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/16e66f0d674db0deec510772414cd5b1.png",
       "tags": [
         "recomp",
         "x360",

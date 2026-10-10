@@ -594,6 +594,11 @@
     "game": null,
     "url": null
   },
+  "droogie/bbhost": {
+    "searched": "Bloodborne the Hunters Dream",
+    "game": "Bloodborne",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/b0b14130d4056e057f7234fc60a8bd58.png"
+  },
   "dubrovskiy-yevhen-stakelogic/gt-2-pc": {
     "searched": "Gran Turismo 2",
     "game": "Gran Turismo 2",
@@ -694,6 +699,16 @@
     "game": "Wario Land: Super Mario Land 3",
     "url": "https://cdn2.steamgriddb.com/icon_thumb/26fd45817c0a0bb1e951d17fa7df947c.png"
   },
+  "gadge64/wwfnomercyrecomp": {
+    "searched": "WWF No Mercy",
+    "game": "WWF No Mercy",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/991d70959133735c15f5ae628fa08d55.png"
+  },
+  "gascarcella/dw2003recomp": {
+    "searched": "Digimon World",
+    "game": "Digimon World",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/08931d765d99d3e849c9674cc289baf7.png"
+  },
   "gizcesi/opentricky": {
     "searched": "SSX Tricky",
     "game": "SSX Tricky",
@@ -703,6 +718,11 @@
     "searched": "Spider-Man: Edge of Time",
     "game": "Spider-Man: Edge of Time",
     "url": "https://cdn2.steamgriddb.com/icon_thumb/677fa4059ee76333f9bb9a7920aef719.png"
+  },
+  "greyxor/openguimo": {
+    "searched": null,
+    "game": null,
+    "url": null
   },
   "gtteancum/jet-moto-anthology": {
     "searched": "Jet Moto Anthology",
@@ -748,6 +768,11 @@
     "searched": "Dragon Ball Z: Burst Limit",
     "game": "Dragon Ball Z: Burst Limit",
     "url": "https://cdn2.steamgriddb.com/icon/15ba4a985b497db630021097082b4ce2/32/64x64.png"
+  },
+  "itskenny0/titanic-godot": {
+    "searched": "Titanic: Adventure Out of Time",
+    "game": "Titanic: Adventure Out of Time",
+    "url": "https://cdn2.steamgriddb.com/icon/08f38e0434442128fab5ead6217ca759/32/64x64.png"
   },
   "jamesiv4/sim-copter-remake": {
     "searched": "Sim Copter",
@@ -824,6 +849,16 @@
     "game": "Ridge Racer",
     "url": "https://cdn2.steamgriddb.com/icon/1f8d87e1161af68b81bace188a1ec624/32/512x512.png"
   },
+  "kevinfoley/herculan": {
+    "searched": "Earthsiege 2",
+    "game": "Earthsiege 2",
+    "url": "https://cdn2.steamgriddb.com/icon/d40e0a2a2f466a90ee2630fc925e7af9/4/32x32.png"
+  },
+  "kirby-letsgo/oracles-decomp": {
+    "searched": "The Legend of Zelda Oracle of Ages and Oracle of Seasons",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/61d77652c97ef636343742fc3dcf3ba9.png"
+  },
   "kirby1237/puyopuyoboxrecomp": {
     "searched": "Puyo Puyo Box",
     "game": "Puyo Puyo BOX",
@@ -859,6 +894,16 @@
     "game": "Hydro Thunder",
     "url": "https://cdn2.steamgriddb.com/icon_thumb/b867a9cd791fbbee1661f7d5d12cf97d.png"
   },
+  "lordingard/sacredstonesrecomp": {
+    "searched": "Fire Emblem: The Sacred Stones",
+    "game": "Fire Emblem: The Sacred Stones",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/56577889b3c1cd083b6d7b32d32f99d5.png"
+  },
+  "loreanxavier/pt-pc": {
+    "searched": "P.T.",
+    "game": "P.T.",
+    "url": "https://cdn2.steamgriddb.com/icon/d095e9553703cc6e3d058c3b70e8e6ce/32/256x256.png"
+  },
   "madelrandel-blip/nfsmw-recompiled": {
     "searched": "Need for Speed: Most Wanted",
     "game": "Need for Speed: Most Wanted",
@@ -883,6 +928,11 @@
     "searched": "Zombies Ate My Neighbors",
     "game": "Zombies Ate My Neighbors",
     "url": "https://cdn2.steamgriddb.com/icon_thumb/3d3621cee6f49e93a34f3f0f654ab41a.png"
+  },
+  "mpkonmbk/burnout-crash-recomp": {
+    "searched": "Burnout CRASH",
+    "game": "Burnout Crash!",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/a287bac704d11e7045a364b9398f0ff5.png"
   },
   "mr-shizzy/pacmanrecomp": {
     "searched": "Pac-Man",
@@ -969,6 +1019,16 @@
     "game": "The Legend of Zelda: A Link to the Past",
     "url": "https://cdn2.steamgriddb.com/icon_thumb/61f7b92a1aa7a88d4cee7dff7d98e7f0.png"
   },
+  "n0madic/tekken3remake": {
+    "searched": "Tekken 3 Remake Built on the Godot Engine",
+    "game": "Tekken 3",
+    "url": "https://cdn2.steamgriddb.com/icon/c16fcce846042d65044d795b4b7a16e3/32/256x256.png"
+  },
+  "nathanialf/ico-pc": {
+    "searched": "ICO",
+    "game": "ICO",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/0126af625c72ec0fd0a0b834308d3082.png"
+  },
   "nikolaygorb/perfectdarkremasterrecomp": {
     "searched": "Perfect Dark",
     "game": "Perfect Dark",
@@ -993,6 +1053,11 @@
     "searched": "Crash of the Titans",
     "game": "Crash of the Titans",
     "url": "https://cdn2.steamgriddb.com/icon_thumb/370bfb31abd222b582245b977ea5f25a.png"
+  },
+  "odrannnn/metroidprimeport": {
+    "searched": "Metroid Prime",
+    "game": "Metroid Prime",
+    "url": "https://cdn2.steamgriddb.com/icon/a8573e231edaaedfb49ebfc14f4be808/32/256x256.png"
   },
   "omarma/tekken3-expanded": {
     "searched": "Tekken 3",
@@ -1079,6 +1144,16 @@
     "game": "WWE '13",
     "url": "https://cdn2.steamgriddb.com/icon/59a3e5c5684f2219aeba5934fc50e8bb/32/64x64.png"
   },
+  "rages4calm/earthbound-companion": {
+    "searched": "EarthBound Companion - MaternalBound Redux",
+    "game": "EarthBound",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/3cf166c6b73f030b4f67eeaeba301103.png"
+  },
+  "rages4calm/zelda-companion": {
+    "searched": "The Legend of Zelda a Link to the Past Companion",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/61f7b92a1aa7a88d4cee7dff7d98e7f0.png"
+  },
   "red-tv141/dc2-ps2recomp": {
     "searched": "Dark Cloud 2",
     "game": "Dark Cloud 2",
@@ -1109,10 +1184,20 @@
     "game": "Sonic Mania",
     "url": "https://cdn2.steamgriddb.com/icon/937fabd012267af84cb7c075c47e68b4/32/512x512.png"
   },
+  "russophone/tomodachi-ltd-recomp": {
+    "searched": "Tomodachi Life: Living the Dream",
+    "game": "Tomodachi Life: Living the Dream",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/6fb873663decc4adb2916aadc68c31fe.png"
+  },
   "samuelitodavila-group/fifa-street-pc": {
     "searched": "FIFA Street",
     "game": "FIFA Street",
     "url": "https://cdn2.steamgriddb.com/icon_thumb/3ae810fa9de039bf5ec9514ed1ead333.png"
+  },
+  "scheeseman486/mightyweenie": {
+    "searched": "Mutant League Hockey",
+    "game": "Mutant League Hockey",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/8a62933a98429348f2a09bbbb8b2ea3e.png"
   },
   "sciaschi/cbfd-recompiled": {
     "searched": "Conker's Bad Fur Day",
@@ -1134,6 +1219,21 @@
     "game": "Sheep, Dog 'n' Wolf",
     "url": "https://cdn2.steamgriddb.com/icon/8dddd5d6f5c804dc8c34745c7bd2036e/8/32x32.png"
   },
+  "silentsudin/roadtripadventure-recomp": {
+    "searched": "Road Trip",
+    "game": "Road Trip: Shifting Gears",
+    "url": "https://cdn2.steamgriddb.com/thumb/e191ccb5c13fceecfb742365738796a1.jpg"
+  },
+  "sinan-karakaya/dq8-recompiled": {
+    "searched": "Dragon Quest 8",
+    "game": "Dragon Quest",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/fb4ab556bc42d6f0ee0f9e24ec4d1af0.png"
+  },
+  "sirhalo23/ridgeracer6-recompilation": {
+    "searched": "Ridge Racer 6",
+    "game": "Ridge Racer 6",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/16e66f0d674db0deec510772414cd5b1.png"
+  },
   "sirsymo/sm2-recomp": {
     "searched": "Spider-Man 2",
     "game": "Spider-Man 2",
@@ -1148,6 +1248,11 @@
     "searched": "Banjo-Tooie",
     "game": "Banjo-Tooie",
     "url": "https://cdn2.steamgriddb.com/icon/be027802089f254b812afd4f8cd5937e/32/64x64.png"
+  },
+  "sonicfreak1337/sarecomp": {
+    "searched": "Sonic Adventure",
+    "game": "Sonic Adventure",
+    "url": "https://cdn2.steamgriddb.com/icon/73618455b2f727ad8fe055241b6b06bd/32/512x512.png"
   },
   "sonicnext-dev/marathonrecomp": {
     "searched": "(by hand)",
@@ -1173,6 +1278,11 @@
     "searched": "Sonic the Fighters",
     "game": "Sonic the Fighters",
     "url": "https://cdn2.steamgriddb.com/icon_thumb/e4e2602e040333a9d03277cf9312e1a7.png"
+  },
+  "spicywonda/castlevania-chronicles-recomp": {
+    "searched": "Castlevania Chronicles",
+    "game": "Castlevania Chronicles",
+    "url": "https://cdn2.steamgriddb.com/icon/1164caada87d881437173e9a15f78aa5/32/96x96.png"
   },
   "spita90/konami-viper-recomp": {
     "searched": "(by hand)",
@@ -1204,6 +1314,11 @@
     "game": "Super Smash Bros.",
     "url": "https://cdn2.steamgriddb.com/icon_thumb/5807a685d1a9ab3b599035bc566ce2b9.png"
   },
+  "tekrantgaming/earthworm-jim-hd-recompiled": {
+    "searched": "Earthworm Jim HD",
+    "game": "Earthworm Jim HD",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/86ecfcbc1e9f1ae5ee2d71910877da36.png"
+  },
   "tekrantgaming/king-kong-recompiled": {
     "searched": "Peter Jackson's King Kong",
     "game": "Peter Jackson's King Kong: The Official Game of the Movie",
@@ -1214,10 +1329,20 @@
     "game": null,
     "url": null
   },
+  "tekrantgaming/simpsons-wrestling-recompiled": {
+    "searched": "The Simpsons Wrestling",
+    "game": "The Simpsons Wrestling",
+    "url": "https://cdn2.steamgriddb.com/icon/2d680487650d66445b50d3d759eccad4/32/512x512.png"
+  },
   "tekrantgaming/sms-pc-port": {
     "searched": "Super Mario Sunshine",
     "game": "Super Mario Sunshine",
     "url": "https://cdn2.steamgriddb.com/icon_thumb/460b491b917d4185ed1f5be97229721a.png"
+  },
+  "thatguymcd/glover-r": {
+    "searched": "Glover",
+    "game": "Glover",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/901797aebf0b23ecbab534d61ad33bb1.png"
   },
   "thatguymcd/rocket-r": {
     "searched": "Rocket: Robot on Wheels",
@@ -1239,6 +1364,11 @@
     "game": "EarthBound",
     "url": "https://cdn2.steamgriddb.com/icon_thumb/3cf166c6b73f030b4f67eeaeba301103.png"
   },
+  "tmcleroy/muscle-march-recomp": {
+    "searched": "Muscle March",
+    "game": "Muscle March",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/a9b619275b593d7ad6cd2df7da76d397.png"
+  },
   "underdecoded/gen2recomped": {
     "searched": "(by hand)",
     "game": "Pokémon Gold Version",
@@ -1259,10 +1389,20 @@
     "game": "King's Field",
     "url": "https://cdn2.steamgriddb.com/icon/d74fae468b41a43f1bca26b0da7d46e9/32/512x512.png"
   },
+  "voicedrew11/verdite3": {
+    "searched": "King's Field 2",
+    "game": "King's Field II",
+    "url": "https://cdn2.steamgriddb.com/icon/0e64f71694834319bae66632acaff99a/32/512x512.png"
+  },
   "weanittommybruh/colin-mcrae-rally-recomp": {
     "searched": "Colin McRae Rally",
     "game": "Colin McRae Rally",
     "url": "https://cdn2.steamgriddb.com/thumb/55ea8538d761b1d93cd43333400bc445.jpg"
+  },
+  "whompay/fncreborn": {
+    "searched": "Fight Night Champion",
+    "game": "Fight Night Champion",
+    "url": "https://cdn2.steamgriddb.com/icon/b9754d094b6c9d34a3abe699fd3b258c/32/256x256.png"
   },
   "whompay/saintsreborn": {
     "searched": "Saints Row",
@@ -1288,6 +1428,11 @@
     "searched": "Sonic Free Riders",
     "game": "Sonic Free Riders",
     "url": "https://cdn2.steamgriddb.com/icon/e47172648719cad3559fed4241415c3f/32/256x256.png"
+  },
+  "z3xox/tenkaichi3decomp": {
+    "searched": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "game": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "url": "https://cdn2.steamgriddb.com/icon_thumb/be774f2a5ef55482596487bf9bdfbd76.png"
   },
   "zeldawwhdrecomp/zeldawwhdrecomp": {
     "searched": "The Legend of Zelda the Wind Waker HD",
